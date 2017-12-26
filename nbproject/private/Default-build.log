@@ -1,0 +1,318 @@
+Scanning dependencies of target htd
+[  0%] Building CXX object src/htd/CMakeFiles/htd.dir/PreOrderTreeTraversal.cpp.o
+[  1%] Building CXX object src/htd/CMakeFiles/htd.dir/MinDegreeOrderingAlgorithm.cpp.o
+[  2%] Building CXX object src/htd/CMakeFiles/htd.dir/Tree.cpp.o
+[  2%] Building CXX object src/htd/CMakeFiles/htd.dir/GraphFactory.cpp.o
+[  3%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledGraphFactory.cpp.o
+[  3%] Building CXX object src/htd/CMakeFiles/htd.dir/WeakNormalizationOperation.cpp.o
+[  4%] Building CXX object src/htd/CMakeFiles/htd.dir/HypertreeDecompositionFactory.cpp.o
+[  4%] Building CXX object src/htd/CMakeFiles/htd.dir/GraphSeparatorAlgorithmFactory.cpp.o
+[  5%] Building CXX object src/htd/CMakeFiles/htd.dir/PathDecompositionAlgorithmFactory.cpp.o
+[  5%] Building CXX object src/htd/CMakeFiles/htd.dir/PostOrderTreeTraversal.cpp.o
+[  6%] Building CXX object src/htd/CMakeFiles/htd.dir/FitnessEvaluation.cpp.o
+[  7%] Building CXX object src/htd/CMakeFiles/htd.dir/JoinNodeReplacementOperation.cpp.o
+[  7%] Building CXX object src/htd/CMakeFiles/htd.dir/HyperedgePointerDeque.cpp.o
+[  8%] Building CXX object src/htd/CMakeFiles/htd.dir/ExhaustiveVertexSelectionStrategy.cpp.o
+[  8%] Building CXX object src/htd/CMakeFiles/htd.dir/State.cpp.o
+[  9%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledGraph.cpp.o
+[  9%] Building CXX object src/htd/CMakeFiles/htd.dir/NormalizationOperation.cpp.o
+[ 10%] Building CXX object src/htd/CMakeFiles/htd.dir/DirectedMultiGraphFactory.cpp.o
+[ 10%] Building CXX object src/htd/CMakeFiles/htd.dir/StronglyConnectedComponentAlgorithmFactory.cpp.o
+[ 11%] Building CXX object src/htd/CMakeFiles/htd.dir/RandomVertexSelectionStrategy.cpp.o
+[ 12%] Building CXX object src/htd/CMakeFiles/htd.dir/BreadthFirstGraphTraversal.cpp.o
+[ 12%] Building CXX object src/htd/CMakeFiles/htd.dir/TreeDecompositionFactory.cpp.o
+[ 13%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledTree.cpp.o
+[ 13%] Building CXX object src/htd/CMakeFiles/htd.dir/CombinedWidthMinimizingTreeDecompositionAlgorithm.cpp.o
+[ 14%] Building CXX object src/htd/CMakeFiles/htd.dir/SeparatorBasedTreeDecompositionAlgorithm.cpp.o
+[ 14%] Building CXX object src/htd/CMakeFiles/htd.dir/LibraryInstance.cpp.o
+[ 15%] Building CXX object src/htd/CMakeFiles/htd.dir/BucketEliminationGraphDecompositionAlgorithm.cpp.o
+[ 15%] Building CXX object src/htd/CMakeFiles/htd.dir/Helpers.cpp.o
+[ 16%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledDirectedGraphFactory.cpp.o
+[ 16%] Building CXX object src/htd/CMakeFiles/htd.dir/NaturalOrderingAlgorithm.cpp.o
+[ 17%] Building CXX object src/htd/CMakeFiles/htd.dir/IterativeImprovementTreeDecompositionAlgorithm.cpp.o
+[ 18%] Building CXX object src/htd/CMakeFiles/htd.dir/SetCoverAlgorithmFactory.cpp.o
+[ 18%] Building CXX object src/htd/CMakeFiles/htd.dir/WidthMinimizingTreeDecompositionAlgorithm.cpp.o
+[ 19%] Building CXX object src/htd/CMakeFiles/htd.dir/AssemblyInfo.cpp.o
+[ 19%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledMultiHypergraph.cpp.o
+[ 20%] Building CXX object src/htd/CMakeFiles/htd.dir/Graph.cpp.o
+[ 20%] Building CXX object src/htd/CMakeFiles/htd.dir/TreeDecompositionVerifier.cpp.o
+[ 21%] Building CXX object src/htd/CMakeFiles/htd.dir/DirectedGraphFactory.cpp.o
+[ 21%] Building CXX object src/htd/CMakeFiles/htd.dir/BucketEliminationTreeDecompositionAlgorithm.cpp.o
+[ 22%] Building CXX object src/htd/CMakeFiles/htd.dir/FilteredHyperedgeCollection.cpp.o
+[ 23%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledHypergraph.cpp.o
+[ 23%] Building CXX object src/htd/CMakeFiles/htd.dir/WidthReductionOperation.cpp.o
+[ 24%] Building CXX object src/htd/CMakeFiles/htd.dir/Hypergraph.cpp.o
+[ 24%] Building CXX object src/htd/CMakeFiles/htd.dir/LabelCollection.cpp.o
+[ 25%] Building CXX object src/htd/CMakeFiles/htd.dir/PostProcessingPathDecompositionAlgorithm.cpp.o
+[ 25%] Building CXX object src/htd/CMakeFiles/htd.dir/HypertreeDecompositionAlgorithm.cpp.o
+[ 26%] Building CXX object src/htd/CMakeFiles/htd.dir/TreeDecompositionAlgorithmFactory.cpp.o
+[ 26%] Building CXX object src/htd/CMakeFiles/htd.dir/DirectedGraph.cpp.o
+[ 27%] Building CXX object src/htd/CMakeFiles/htd.dir/InducedSubgraphLabelingOperation.cpp.o
+[ 28%] Building CXX object src/htd/CMakeFiles/htd.dir/LabelingCollection.cpp.o
+[ 28%] Building CXX object src/htd/CMakeFiles/htd.dir/LimitMaximumIntroducedVertexCountOperation.cpp.o
+[ 29%] Building CXX object src/htd/CMakeFiles/htd.dir/GraphDecompositionAlgorithmFactory.cpp.o
+[ 29%] Building CXX object src/htd/CMakeFiles/htd.dir/Id.cpp.o
+[ 30%] Building CXX object src/htd/CMakeFiles/htd.dir/GraphDecompositionFactory.cpp.o
+[ 30%] Building CXX object src/htd/CMakeFiles/htd.dir/HyperedgeVector.cpp.o
+[ 31%] Building CXX object src/htd/CMakeFiles/htd.dir/GraphLabeling.cpp.o
+[ 31%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledMultiGraph.cpp.o
+[ 32%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledMultiHypergraphFactory.cpp.o
+[ 33%] Building CXX object src/htd/CMakeFiles/htd.dir/TreeDecomposition.cpp.o
+[ 33%] Building CXX object src/htd/CMakeFiles/htd.dir/RandomOrderingAlgorithm.cpp.o
+[ 34%] Building CXX object src/htd/CMakeFiles/htd.dir/TrivialTreeDecompositionAlgorithm.cpp.o
+[ 34%] Building CXX object src/htd/CMakeFiles/htd.dir/MultiGraphFactory.cpp.o
+[ 35%] Building CXX object src/htd/CMakeFiles/htd.dir/TreeDecompositionOptimizationOperation.cpp.o
+[ 35%] Building CXX object src/htd/CMakeFiles/htd.dir/MinFillOrderingAlgorithm.cpp.o
+[ 36%] Building CXX object src/htd/CMakeFiles/htd.dir/BiconnectedComponentAlgorithm.cpp.o
+[ 36%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledDirectedMultiGraph.cpp.o
+[ 37%] Building CXX object src/htd/CMakeFiles/htd.dir/MinimumSeparatorAlgorithm.cpp.o
+[ 37%] Building CXX object src/htd/CMakeFiles/htd.dir/EnhancedMaximumCardinalitySearchOrderingAlgorithm.cpp.o
+[ 38%] Building CXX object src/htd/CMakeFiles/htd.dir/Hyperedge.cpp.o
+[ 39%] Building CXX object src/htd/CMakeFiles/htd.dir/DepthFirstConnectedComponentAlgorithm.cpp.o
+[ 39%] Building CXX object src/htd/CMakeFiles/htd.dir/SingleNeighborVertexSelectionStrategy.cpp.o
+[ 40%] Building CXX object src/htd/CMakeFiles/htd.dir/Path.cpp.o
+[ 40%] Building CXX object src/htd/CMakeFiles/htd.dir/CompressionOperation.cpp.o
+[ 41%] Building CXX object src/htd/CMakeFiles/htd.dir/GraphPreprocessor.cpp.o
+[ 41%] Building CXX object src/htd/CMakeFiles/htd.dir/VertexOrdering.cpp.o
+[ 42%] Building CXX object src/htd/CMakeFiles/htd.dir/Vertex.cpp.o
+[ 42%] Building CXX object src/htd/CMakeFiles/htd.dir/FlowNetworkStructure.cpp.o
+[ 43%] Building CXX object src/htd/CMakeFiles/htd.dir/GreedySetCoverAlgorithm.cpp.o
+[ 44%] Building CXX object src/htd/CMakeFiles/htd.dir/LimitChildCountOperation.cpp.o
+[ 44%] Building CXX object src/htd/CMakeFiles/htd.dir/DirectedMultiGraph.cpp.o
+[ 45%] Building CXX object src/htd/CMakeFiles/htd.dir/PathDecomposition.cpp.o
+[ 45%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledPath.cpp.o
+[ 46%] Building CXX object src/htd/CMakeFiles/htd.dir/TarjanStronglyConnectedComponentAlgorithm.cpp.o
+[ 46%] Building CXX object src/htd/CMakeFiles/htd.dir/MultiHypergraph.cpp.o
+[ 47%] Building CXX object src/htd/CMakeFiles/htd.dir/PreprocessedGraph.cpp.o
+[ 47%] Building CXX object src/htd/CMakeFiles/htd.dir/JoinNodeNormalizationOperation.cpp.o
+[ 48%] Building CXX object src/htd/CMakeFiles/htd.dir/DinitzMaxFlowAlgorithm.cpp.o
+[ 49%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledMultiGraphFactory.cpp.o
+[ 49%] Building CXX object src/htd/CMakeFiles/htd.dir/CliqueMinimalSeparatorAlgorithm.cpp.o
+[ 50%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledTreeFactory.cpp.o
+[ 50%] Building CXX object src/htd/CMakeFiles/htd.dir/SemiNormalizationOperation.cpp.o
+[ 51%] Building CXX object src/htd/CMakeFiles/htd.dir/HypertreeDecomposition.cpp.o
+[ 51%] Building CXX object src/htd/CMakeFiles/htd.dir/DepthFirstGraphTraversal.cpp.o
+[ 52%] Building CXX object src/htd/CMakeFiles/htd.dir/SetCoverAlgorithm.cpp.o
+[ 52%] Building CXX object src/htd/CMakeFiles/htd.dir/AddEmptyRootOperation.cpp.o
+[ 53%] Building CXX object src/htd/CMakeFiles/htd.dir/AdaptiveWidthMinimizingTreeDecompositionAlgorithm.cpp.o
+[ 54%] Building CXX object src/htd/CMakeFiles/htd.dir/HypergraphFactory.cpp.o
+[ 54%] Building CXX object src/htd/CMakeFiles/htd.dir/MaximumCardinalitySearchOrderingAlgorithm.cpp.o
+[ 55%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledHypergraphFactory.cpp.o
+[ 55%] Building CXX object src/htd/CMakeFiles/htd.dir/HypertreeDecompositionAlgorithmFactory.cpp.o
+[ 56%] Building CXX object src/htd/CMakeFiles/htd.dir/LimitMaximumForgottenVertexCountOperation.cpp.o
+[ 56%] Building CXX object src/htd/CMakeFiles/htd.dir/TemplateInstantiations.cpp.o
+[ 57%] Building CXX object src/htd/CMakeFiles/htd.dir/OrderingAlgorithmFactory.cpp.o
+[ 57%] Building CXX object src/htd/CMakeFiles/htd.dir/AddEmptyLeavesOperation.cpp.o
+[ 58%] Building CXX object src/htd/CMakeFiles/htd.dir/ExchangeNodeReplacementOperation.cpp.o
+[ 58%] Building CXX object src/htd/CMakeFiles/htd.dir/JoinNodeComplexityReductionOperation.cpp.o
+[ 59%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledDirectedMultiGraphFactory.cpp.o
+[ 60%] Building CXX object src/htd/CMakeFiles/htd.dir/HyperedgePointerVector.cpp.o
+[ 60%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledDirectedGraph.cpp.o
+[ 61%] Building CXX object src/htd/CMakeFiles/htd.dir/AddIdenticalJoinNodeParentOperation.cpp.o
+[ 61%] Building CXX object src/htd/CMakeFiles/htd.dir/GraphPreprocessorFactory.cpp.o
+[ 62%] Building CXX object src/htd/CMakeFiles/htd.dir/MultiGraph.cpp.o
+[ 62%] Building CXX object src/htd/CMakeFiles/htd.dir/GraphDecomposition.cpp.o
+[ 63%] Building CXX object src/htd/CMakeFiles/htd.dir/TriangulationMinimizationOrderingAlgorithm.cpp.o
+[ 63%] Building CXX object src/htd/CMakeFiles/htd.dir/MultiHypergraphFactory.cpp.o
+[ 64%] Building CXX object src/htd/CMakeFiles/htd.dir/PathDecompositionFactory.cpp.o
+[ 65%] Building CXX object src/htd/CMakeFiles/htd.dir/LabeledPathFactory.cpp.o
+[ 65%] Building CXX object src/htd/CMakeFiles/htd.dir/HyperedgeDeque.cpp.o
+[ 66%] Building CXX object src/htd/CMakeFiles/htd.dir/ConnectedComponentAlgorithmFactory.cpp.o
+Linking CXX shared library ../../lib/libhtd.so
+[ 66%] Built target htd
+Scanning dependencies of target htd_io
+[ 67%] Building CXX object src/htd_io/CMakeFiles/htd_io.dir/GrFormatImporter.cpp.o
+[ 67%] Building CXX object src/htd_io/CMakeFiles/htd_io.dir/GrFormatGraphToTreeDecompositionProcessor.cpp.o
+[ 68%] Building CXX object src/htd_io/CMakeFiles/htd_io.dir/LpFormatImporter.cpp.o
+[ 68%] Building CXX object src/htd_io/CMakeFiles/htd_io.dir/HumanReadableExporter.cpp.o
+[ 69%] Building CXX object src/htd_io/CMakeFiles/htd_io.dir/LpFormatGraphToTreeDecompositionProcessor.cpp.o
+[ 69%] Building CXX object src/htd_io/CMakeFiles/htd_io.dir/WidthExporter.cpp.o
+[ 70%] Building CXX object src/htd_io/CMakeFiles/htd_io.dir/HgrFormatImporter.cpp.o
+[ 70%] Building CXX object src/htd_io/CMakeFiles/htd_io.dir/TdFormatExporter.cpp.o
+[ 71%] Building CXX object src/htd_io/CMakeFiles/htd_io.dir/HgrFormatGraphToTreeDecompositionProcessor.cpp.o
+Linking CXX shared library ../../lib/libhtd_io.so
+[ 71%] Built target htd_io
+Scanning dependencies of target htd_cli
+[ 71%] Building CXX object src/htd_cli/CMakeFiles/htd_cli.dir/SingleValueOption.cpp.o
+[ 72%] Building CXX object src/htd_cli/CMakeFiles/htd_cli.dir/Choice.cpp.o
+[ 72%] Building CXX object src/htd_cli/CMakeFiles/htd_cli.dir/ValueOption.cpp.o
+[ 73%] Building CXX object src/htd_cli/CMakeFiles/htd_cli.dir/MultiValueOption.cpp.o
+[ 73%] Building CXX object src/htd_cli/CMakeFiles/htd_cli.dir/Option.cpp.o
+[ 74%] Building CXX object src/htd_cli/CMakeFiles/htd_cli.dir/OptionManager.cpp.o
+Linking CXX shared library ../../lib/libhtd_cli.so
+[ 74%] Built target htd_cli
+Scanning dependencies of target htd_main
+[ 75%] Building CXX object src/htd_main/CMakeFiles/htd_main.dir/main.cpp.o
+Linking CXX executable ../../bin/htd_main
+[ 75%] Built target htd_main
+Scanning dependencies of target gmock
+[ 76%] Building CXX object test/googletest/googletest-release-1.8.0/googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.o
+[ 76%] Building CXX object test/googletest/googletest-release-1.8.0/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o
+Linking CXX shared library libgmock.so
+[ 76%] Built target gmock
+Scanning dependencies of target gmock_main
+[ 77%] Building CXX object test/googletest/googletest-release-1.8.0/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o
+[ 77%] Building CXX object test/googletest/googletest-release-1.8.0/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.o
+[ 78%] Building CXX object test/googletest/googletest-release-1.8.0/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o
+Linking CXX shared library libgmock_main.so
+[ 78%] Built target gmock_main
+Scanning dependencies of target gtest
+[ 78%] Building CXX object test/googletest/googletest-release-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o
+Linking CXX shared library libgtest.so
+[ 78%] Built target gtest
+Scanning dependencies of target gtest_main
+[ 79%] Building CXX object test/googletest/googletest-release-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o
+Linking CXX shared library libgtest_main.so
+[ 79%] Built target gtest_main
+Scanning dependencies of target BucketEliminationGraphDecompositionAlgorithmTest
+[ 79%] Building CXX object test/htd/CMakeFiles/BucketEliminationGraphDecompositionAlgorithmTest.dir/BucketEliminationGraphDecompositionAlgorithmTest.cpp.o
+Linking CXX executable BucketEliminationGraphDecompositionAlgorithmTest
+[ 79%] Built target BucketEliminationGraphDecompositionAlgorithmTest
+Scanning dependencies of target BucketEliminationTreeDecompositionAlgorithmTest
+[ 80%] Building CXX object test/htd/CMakeFiles/BucketEliminationTreeDecompositionAlgorithmTest.dir/BucketEliminationTreeDecompositionAlgorithmTest.cpp.o
+Linking CXX executable BucketEliminationTreeDecompositionAlgorithmTest
+[ 80%] Built target BucketEliminationTreeDecompositionAlgorithmTest
+Scanning dependencies of target ConnectedComponentAlgorithmTest
+[ 80%] Building CXX object test/htd/CMakeFiles/ConnectedComponentAlgorithmTest.dir/ConnectedComponentAlgorithmTest.cpp.o
+Linking CXX executable ConnectedComponentAlgorithmTest
+[ 80%] Built target ConnectedComponentAlgorithmTest
+Scanning dependencies of target FactoryTest
+[ 81%] Building CXX object test/htd/CMakeFiles/FactoryTest.dir/FactoryTest.cpp.o
+Linking CXX executable FactoryTest
+[ 81%] Built target FactoryTest
+Scanning dependencies of target FilteredHyperedgeCollectionTest
+[ 81%] Building CXX object test/htd/CMakeFiles/FilteredHyperedgeCollectionTest.dir/FilteredHyperedgeCollectionTest.cpp.o
+Linking CXX executable FilteredHyperedgeCollectionTest
+[ 81%] Built target FilteredHyperedgeCollectionTest
+Scanning dependencies of target GraphDecompositionTest
+[ 82%] Building CXX object test/htd/CMakeFiles/GraphDecompositionTest.dir/GraphDecompositionTest.cpp.o
+Linking CXX executable GraphDecompositionTest
+[ 82%] Built target GraphDecompositionTest
+Scanning dependencies of target GraphLabelingTest
+[ 82%] Building CXX object test/htd/CMakeFiles/GraphLabelingTest.dir/GraphLabelingTest.cpp.o
+Linking CXX executable GraphLabelingTest
+[ 82%] Built target GraphLabelingTest
+Scanning dependencies of target GraphPreprocessorTest
+[ 83%] Building CXX object test/htd/CMakeFiles/GraphPreprocessorTest.dir/GraphPreprocessorTest.cpp.o
+Linking CXX executable GraphPreprocessorTest
+[ 83%] Built target GraphPreprocessorTest
+Scanning dependencies of target GraphTest
+[ 83%] Building CXX object test/htd/CMakeFiles/GraphTest.dir/GraphTest.cpp.o
+Linking CXX executable GraphTest
+[ 83%] Built target GraphTest
+Scanning dependencies of target HelperTest
+[ 84%] Building CXX object test/htd/CMakeFiles/HelperTest.dir/HelperTest.cpp.o
+Linking CXX executable HelperTest
+[ 84%] Built target HelperTest
+Scanning dependencies of target HyperedgeTest
+[ 85%] Building CXX object test/htd/CMakeFiles/HyperedgeTest.dir/HyperedgeTest.cpp.o
+Linking CXX executable HyperedgeTest
+[ 85%] Built target HyperedgeTest
+Scanning dependencies of target HypergraphTest
+[ 85%] Building CXX object test/htd/CMakeFiles/HypergraphTest.dir/HypergraphTest.cpp.o
+Linking CXX executable HypergraphTest
+[ 85%] Built target HypergraphTest
+Scanning dependencies of target HypertreeDecompositionAlgorithmTest
+[ 86%] Building CXX object test/htd/CMakeFiles/HypertreeDecompositionAlgorithmTest.dir/HypertreeDecompositionAlgorithmTest.cpp.o
+Linking CXX executable HypertreeDecompositionAlgorithmTest
+[ 86%] Built target HypertreeDecompositionAlgorithmTest
+Scanning dependencies of target HypertreeDecompositionTest
+[ 86%] Building CXX object test/htd/CMakeFiles/HypertreeDecompositionTest.dir/HypertreeDecompositionTest.cpp.o
+Linking CXX executable HypertreeDecompositionTest
+[ 86%] Built target HypertreeDecompositionTest
+Scanning dependencies of target IteratorTest
+[ 87%] Building CXX object test/htd/CMakeFiles/IteratorTest.dir/IteratorTest.cpp.o
+Linking CXX executable IteratorTest
+[ 87%] Built target IteratorTest
+Scanning dependencies of target LabelCollectionTest
+[ 87%] Building CXX object test/htd/CMakeFiles/LabelCollectionTest.dir/LabelCollectionTest.cpp.o
+Linking CXX executable LabelCollectionTest
+[ 87%] Built target LabelCollectionTest
+Scanning dependencies of target LabeledDirectedGraphTest
+[ 88%] Building CXX object test/htd/CMakeFiles/LabeledDirectedGraphTest.dir/LabeledDirectedGraphTest.cpp.o
+Linking CXX executable LabeledDirectedGraphTest
+[ 88%] Built target LabeledDirectedGraphTest
+Scanning dependencies of target LabeledDirectedMultiGraphTest
+[ 88%] Building CXX object test/htd/CMakeFiles/LabeledDirectedMultiGraphTest.dir/LabeledDirectedMultiGraphTest.cpp.o
+Linking CXX executable LabeledDirectedMultiGraphTest
+[ 88%] Built target LabeledDirectedMultiGraphTest
+Scanning dependencies of target LabeledGraphTest
+[ 89%] Building CXX object test/htd/CMakeFiles/LabeledGraphTest.dir/LabeledGraphTest.cpp.o
+Linking CXX executable LabeledGraphTest
+[ 89%] Built target LabeledGraphTest
+Scanning dependencies of target LabeledHypergraphTest
+[ 90%] Building CXX object test/htd/CMakeFiles/LabeledHypergraphTest.dir/LabeledHypergraphTest.cpp.o
+Linking CXX executable LabeledHypergraphTest
+[ 90%] Built target LabeledHypergraphTest
+Scanning dependencies of target LabeledMultiGraphTest
+[ 90%] Building CXX object test/htd/CMakeFiles/LabeledMultiGraphTest.dir/LabeledMultiGraphTest.cpp.o
+Linking CXX executable LabeledMultiGraphTest
+[ 90%] Built target LabeledMultiGraphTest
+Scanning dependencies of target LabelingCollectionTest
+[ 91%] Building CXX object test/htd/CMakeFiles/LabelingCollectionTest.dir/LabelingCollectionTest.cpp.o
+Linking CXX executable LabelingCollectionTest
+[ 91%] Built target LabelingCollectionTest
+Scanning dependencies of target LibraryInstanceTest
+[ 91%] Building CXX object test/htd/CMakeFiles/LibraryInstanceTest.dir/LibraryInstanceTest.cpp.o
+Linking CXX executable LibraryInstanceTest
+[ 91%] Built target LibraryInstanceTest
+Scanning dependencies of target ManipulationOperationTest
+[ 92%] Building CXX object test/htd/CMakeFiles/ManipulationOperationTest.dir/ManipulationOperationTest.cpp.o
+Linking CXX executable ManipulationOperationTest
+[ 92%] Built target ManipulationOperationTest
+Scanning dependencies of target MaximumCardinalitySearchOrderingAlgorithmTest
+[ 92%] Building CXX object test/htd/CMakeFiles/MaximumCardinalitySearchOrderingAlgorithmTest.dir/MaximumCardinalitySearchOrderingAlgorithmTest.cpp.o
+Linking CXX executable MaximumCardinalitySearchOrderingAlgorithmTest
+[ 92%] Built target MaximumCardinalitySearchOrderingAlgorithmTest
+Scanning dependencies of target MinDegreeOrderingAlgorithmTest
+[ 93%] Building CXX object test/htd/CMakeFiles/MinDegreeOrderingAlgorithmTest.dir/MinDegreeOrderingAlgorithmTest.cpp.o
+Linking CXX executable MinDegreeOrderingAlgorithmTest
+[ 93%] Built target MinDegreeOrderingAlgorithmTest
+Scanning dependencies of target MinFillOrderingAlgorithmTest
+[ 93%] Building CXX object test/htd/CMakeFiles/MinFillOrderingAlgorithmTest.dir/MinFillOrderingAlgorithmTest.cpp.o
+Linking CXX executable MinFillOrderingAlgorithmTest
+[ 93%] Built target MinFillOrderingAlgorithmTest
+Scanning dependencies of target MultiGraphTest
+[ 94%] Building CXX object test/htd/CMakeFiles/MultiGraphTest.dir/MultiGraphTest.cpp.o
+Linking CXX executable MultiGraphTest
+[ 94%] Built target MultiGraphTest
+Scanning dependencies of target MultiHypergraphTest
+[ 95%] Building CXX object test/htd/CMakeFiles/MultiHypergraphTest.dir/MultiHypergraphTest.cpp.o
+Linking CXX executable MultiHypergraphTest
+[ 95%] Built target MultiHypergraphTest
+Scanning dependencies of target PathDecompositionTest
+[ 95%] Building CXX object test/htd/CMakeFiles/PathDecompositionTest.dir/PathDecompositionTest.cpp.o
+Linking CXX executable PathDecompositionTest
+[ 95%] Built target PathDecompositionTest
+Scanning dependencies of target PathTest
+[ 96%] Building CXX object test/htd/CMakeFiles/PathTest.dir/PathTest.cpp.o
+Linking CXX executable PathTest
+[ 96%] Built target PathTest
+Scanning dependencies of target PostProcessingPathDecompositionAlgorithmTest
+[ 96%] Building CXX object test/htd/CMakeFiles/PostProcessingPathDecompositionAlgorithmTest.dir/PostProcessingPathDecompositionAlgorithmTest.cpp.o
+Linking CXX executable PostProcessingPathDecompositionAlgorithmTest
+[ 96%] Built target PostProcessingPathDecompositionAlgorithmTest
+Scanning dependencies of target RandomOrderingAlgorithmTest
+[ 97%] Building CXX object test/htd/CMakeFiles/RandomOrderingAlgorithmTest.dir/RandomOrderingAlgorithmTest.cpp.o
+Linking CXX executable RandomOrderingAlgorithmTest
+[ 97%] Built target RandomOrderingAlgorithmTest
+Scanning dependencies of target SetCoverAlgorithmTest
+[ 97%] Building CXX object test/htd/CMakeFiles/SetCoverAlgorithmTest.dir/SetCoverAlgorithmTest.cpp.o
+Linking CXX executable SetCoverAlgorithmTest
+[ 97%] Built target SetCoverAlgorithmTest
+Scanning dependencies of target TreeDecompositionOptimizationTest
+[ 98%] Building CXX object test/htd/CMakeFiles/TreeDecompositionOptimizationTest.dir/TreeDecompositionOptimizationTest.cpp.o
+Linking CXX executable TreeDecompositionOptimizationTest
+[ 98%] Built target TreeDecompositionOptimizationTest
+Scanning dependencies of target TreeDecompositionTest
+[ 98%] Building CXX object test/htd/CMakeFiles/TreeDecompositionTest.dir/TreeDecompositionTest.cpp.o
+Linking CXX executable TreeDecompositionTest
+[ 98%] Built target TreeDecompositionTest
+Scanning dependencies of target TreeTest
+[100%] Building CXX object test/htd/CMakeFiles/TreeTest.dir/TreeTest.cpp.o
+Linking CXX executable TreeTest
+[100%] Built target TreeTest
+Scanning dependencies of target VertexSelectionStrategyTest
+[100%] Building CXX object test/htd/CMakeFiles/VertexSelectionStrategyTest.dir/VertexSelectionStrategyTest.cpp.o
+Linking CXX executable VertexSelectionStrategyTest
+[100%] Built target VertexSelectionStrategyTest

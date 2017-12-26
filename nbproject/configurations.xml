@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="src">
+        <df name="htd">
+          <in>AdaptiveWidthMinimizingTreeDecompositionAlgorithm.cpp</in>
+          <in>AddEmptyLeavesOperation.cpp</in>
+          <in>AddEmptyRootOperation.cpp</in>
+          <in>AddIdenticalJoinNodeParentOperation.cpp</in>
+          <in>AssemblyInfo.cpp</in>
+          <in>BiconnectedComponentAlgorithm.cpp</in>
+          <in>BreadthFirstGraphTraversal.cpp</in>
+          <in>BucketEliminationGraphDecompositionAlgorithm.cpp</in>
+          <in>BucketEliminationTreeDecompositionAlgorithm.cpp</in>
+          <in>CliqueMinimalSeparatorAlgorithm.cpp</in>
+          <in>CombinedWidthMinimizingTreeDecompositionAlgorithm.cpp</in>
+          <in>CompressionOperation.cpp</in>
+          <in>ConnectedComponentAlgorithmFactory.cpp</in>
+          <in>DepthFirstConnectedComponentAlgorithm.cpp</in>
+          <in>DepthFirstGraphTraversal.cpp</in>
+          <in>DinitzMaxFlowAlgorithm.cpp</in>
+          <in>DirectedGraph.cpp</in>
+          <in>DirectedGraphFactory.cpp</in>
+          <in>DirectedMultiGraph.cpp</in>
+          <in>DirectedMultiGraphFactory.cpp</in>
+          <in>EnhancedMaximumCardinalitySearchOrderingAlgorithm.cpp</in>
+          <in>ExchangeNodeReplacementOperation.cpp</in>
+          <in>ExhaustiveVertexSelectionStrategy.cpp</in>
+          <in>FilteredHyperedgeCollection.cpp</in>
+          <in>FitnessEvaluation.cpp</in>
+          <in>FlowNetworkStructure.cpp</in>
+          <in>Graph.cpp</in>
+          <in>GraphDecomposition.cpp</in>
+          <in>GraphDecompositionAlgorithmFactory.cpp</in>
+          <in>GraphDecompositionFactory.cpp</in>
+          <in>GraphFactory.cpp</in>
+          <in>GraphLabeling.cpp</in>
+          <in>GraphPreprocessor.cpp</in>
+          <in>GraphPreprocessorFactory.cpp</in>
+          <in>GraphSeparatorAlgorithmFactory.cpp</in>
+          <in>GreedySetCoverAlgorithm.cpp</in>
+          <in>Helpers.cpp</in>
+          <in>Hyperedge.cpp</in>
+          <in>HyperedgeDeque.cpp</in>
+          <in>HyperedgePointerDeque.cpp</in>
+          <in>HyperedgePointerVector.cpp</in>
+          <in>HyperedgeVector.cpp</in>
+          <in>Hypergraph.cpp</in>
+          <in>HypergraphFactory.cpp</in>
+          <in>HypertreeDecomposition.cpp</in>
+          <in>HypertreeDecompositionAlgorithm.cpp</in>
+          <in>HypertreeDecompositionAlgorithmFactory.cpp</in>
+          <in>HypertreeDecompositionFactory.cpp</in>
+          <in>Id.cpp</in>
+          <in>InducedSubgraphLabelingOperation.cpp</in>
+          <in>IterativeImprovementTreeDecompositionAlgorithm.cpp</in>
+          <in>JoinNodeComplexityReductionOperation.cpp</in>
+          <in>JoinNodeNormalizationOperation.cpp</in>
+          <in>JoinNodeReplacementOperation.cpp</in>
+          <in>LabelCollection.cpp</in>
+          <in>LabeledDirectedGraph.cpp</in>
+          <in>LabeledDirectedGraphFactory.cpp</in>
+          <in>LabeledDirectedMultiGraph.cpp</in>
+          <in>LabeledDirectedMultiGraphFactory.cpp</in>
+          <in>LabeledGraph.cpp</in>
+          <in>LabeledGraphFactory.cpp</in>
+          <in>LabeledHypergraph.cpp</in>
+          <in>LabeledHypergraphFactory.cpp</in>
+          <in>LabeledMultiGraph.cpp</in>
+          <in>LabeledMultiGraphFactory.cpp</in>
+          <in>LabeledMultiHypergraph.cpp</in>
+          <in>LabeledMultiHypergraphFactory.cpp</in>
+          <in>LabeledPath.cpp</in>
+          <in>LabeledPathFactory.cpp</in>
+          <in>LabeledTree.cpp</in>
+          <in>LabeledTreeFactory.cpp</in>
+          <in>LabelingCollection.cpp</in>
+          <in>LibraryInstance.cpp</in>
+          <in>LimitChildCountOperation.cpp</in>
+          <in>LimitMaximumForgottenVertexCountOperation.cpp</in>
+          <in>LimitMaximumIntroducedVertexCountOperation.cpp</in>
+          <in>MaximumCardinalitySearchOrderingAlgorithm.cpp</in>
+          <in>MinDegreeOrderingAlgorithm.cpp</in>
+          <in>MinFillOrderingAlgorithm.cpp</in>
+          <in>MinimumSeparatorAlgorithm.cpp</in>
+          <in>MultiGraph.cpp</in>
+          <in>MultiGraphFactory.cpp</in>
+          <in>MultiHypergraph.cpp</in>
+          <in>MultiHypergraphFactory.cpp</in>
+          <in>NaturalOrderingAlgorithm.cpp</in>
+          <in>NormalizationOperation.cpp</in>
+          <in>OrderingAlgorithmFactory.cpp</in>
+          <in>Path.cpp</in>
+          <in>PathDecomposition.cpp</in>
+          <in>PathDecompositionAlgorithmFactory.cpp</in>
+          <in>PathDecompositionFactory.cpp</in>
+          <in>PostOrderTreeTraversal.cpp</in>
+          <in>PostProcessingPathDecompositionAlgorithm.cpp</in>
+          <in>PreOrderTreeTraversal.cpp</in>
+          <in>PreprocessedGraph.cpp</in>
+          <in>RandomOrderingAlgorithm.cpp</in>
+          <in>RandomVertexSelectionStrategy.cpp</in>
+          <in>SemiNormalizationOperation.cpp</in>
+          <in>SeparatorBasedTreeDecompositionAlgorithm.cpp</in>
+          <in>SetCoverAlgorithm.cpp</in>
+          <in>SetCoverAlgorithmFactory.cpp</in>
+          <in>SingleNeighborVertexSelectionStrategy.cpp</in>
+          <in>State.cpp</in>
+          <in>StronglyConnectedComponentAlgorithmFactory.cpp</in>
+          <in>TarjanStronglyConnectedComponentAlgorithm.cpp</in>
+          <in>TemplateInstantiations.cpp</in>
+          <in>Tree.cpp</in>
+          <in>TreeDecomposition.cpp</in>
+          <in>TreeDecompositionAlgorithmFactory.cpp</in>
+          <in>TreeDecompositionFactory.cpp</in>
+          <in>TreeDecompositionOptimizationOperation.cpp</in>
+          <in>TreeDecompositionVerifier.cpp</in>
+          <in>TriangulationMinimizationOrderingAlgorithm.cpp</in>
+          <in>TrivialTreeDecompositionAlgorithm.cpp</in>
+          <in>Vertex.cpp</in>
+          <in>VertexOrdering.cpp</in>
+          <in>WeakNormalizationOperation.cpp</in>
+          <in>WidthMinimizingTreeDecompositionAlgorithm.cpp</in>
+          <in>WidthReductionOperation.cpp</in>
+        </df>
+        <df name="htd_cli">
+          <in>Choice.cpp</in>
+          <in>MultiValueOption.cpp</in>
+          <in>Option.cpp</in>
+          <in>OptionManager.cpp</in>
+          <in>SingleValueOption.cpp</in>
+          <in>ValueOption.cpp</in>
+        </df>
+        <df name="htd_io">
+          <in>GrFormatGraphToTreeDecompositionProcessor.cpp</in>
+          <in>GrFormatImporter.cpp</in>
+          <in>HgrFormatGraphToTreeDecompositionProcessor.cpp</in>
+          <in>HgrFormatImporter.cpp</in>
+          <in>HumanReadableExporter.cpp</in>
+          <in>LpFormatGraphToTreeDecompositionProcessor.cpp</in>
+          <in>LpFormatImporter.cpp</in>
+          <in>TdFormatExporter.cpp</in>
+          <in>WidthExporter.cpp</in>
+        </df>
+        <df name="htd_main">
+          <in>main.cpp</in>
+        </df>
+      </df>
+      <df name="test">
+        <df name="googletest">
+          <df name="googletest-release-1.8.0">
+            <df name="googlemock">
+              <df name="src">
+                <in>gmock-all.cc</in>
+                <in>gmock_main.cc</in>
+              </df>
+            </df>
+            <df name="googletest">
+              <df name="src">
+                <in>gtest-all.cc</in>
+                <in>gtest_main.cc</in>
+              </df>
+            </df>
+          </df>
+        </df>
+        <df name="htd">
+          <in>BucketEliminationGraphDecompositionAlgorithmTest.cpp</in>
+          <in>BucketEliminationTreeDecompositionAlgorithmTest.cpp</in>
+          <in>ConnectedComponentAlgorithmTest.cpp</in>
+          <in>FactoryTest.cpp</in>
+          <in>FilteredHyperedgeCollectionTest.cpp</in>
+          <in>GraphDecompositionTest.cpp</in>
+          <in>GraphLabelingTest.cpp</in>
+          <in>GraphPreprocessorTest.cpp</in>
+          <in>GraphTest.cpp</in>
+          <in>HelperTest.cpp</in>
+          <in>HyperedgeTest.cpp</in>
+          <in>HypergraphTest.cpp</in>
+          <in>HypertreeDecompositionAlgorithmTest.cpp</in>
+          <in>HypertreeDecompositionTest.cpp</in>
+          <in>IteratorTest.cpp</in>
+          <in>LabelCollectionTest.cpp</in>
+          <in>LabeledDirectedGraphTest.cpp</in>
+          <in>LabeledDirectedMultiGraphTest.cpp</in>
+          <in>LabeledGraphTest.cpp</in>
+          <in>LabeledHypergraphTest.cpp</in>
+          <in>LabeledMultiGraphTest.cpp</in>
+          <in>LabelingCollectionTest.cpp</in>
+          <in>LibraryInstanceTest.cpp</in>
+          <in>ManipulationOperationTest.cpp</in>
+          <in>MaximumCardinalitySearchOrderingAlgorithmTest.cpp</in>
+          <in>MinDegreeOrderingAlgorithmTest.cpp</in>
+          <in>MinFillOrderingAlgorithmTest.cpp</in>
+          <in>MultiGraphTest.cpp</in>
+          <in>MultiHypergraphTest.cpp</in>
+          <in>PathDecompositionTest.cpp</in>
+          <in>PathTest.cpp</in>
+          <in>PostProcessingPathDecompositionAlgorithmTest.cpp</in>
+          <in>RandomOrderingAlgorithmTest.cpp</in>
+          <in>SetCoverAlgorithmTest.cpp</in>
+          <in>TreeDecompositionOptimizationTest.cpp</in>
+          <in>TreeDecompositionTest.cpp</in>
+          <in>TreeTest.cpp</in>
+          <in>VertexSelectionStrategyTest.cpp</in>
+        </df>
+      </df>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>CMakeLists.txt</itemPath>
+      <itemPath>Makefile</itemPath>
+      <itemPath>nbproject/private/launcher.properties</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <flagsDictionary>
+        <element flagsID="0" commonFlags="-fPIC"/>
+        <element flagsID="1" commonFlags="-pedantic -fPIC -std=gnu++11"/>
+        <element flagsID="2" commonFlags="-pedantic -std=gnu++11"/>
+      </flagsDictionary>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+        </makeTool>
+        <preBuild>
+          <preBuildCommandWorkingDir>.</preBuildCommandWorkingDir>
+          <preBuildCommand>${CMAKE} -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=${IDE_CC} -DCMAKE_CXX_COMPILER=${IDE_CXX} -DCMAKE_C_FLAGS_DEBUG="-g3 -gdwarf-2" -DCMAKE_CXX_FLAGS_DEBUG="-g3 -gdwarf-2" -DCMAKE_EXPORT_COMPILE_COMMANDS=ON .</preBuildCommand>
+        </preBuild>
+      </makefileType>
+      <folder path="0/src">
+        <ccTool>
+          <incDir>
+            <pElem>include</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="0/src/htd">
+        <ccTool>
+          <preprocessorList>
+            <Elem>htd_EXPORTS</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="0/src/htd_cli">
+        <ccTool>
+          <preprocessorList>
+            <Elem>htd_cli_EXPORTS</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="0/src/htd_io">
+        <ccTool>
+          <preprocessorList>
+            <Elem>htd_io_EXPORTS</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="0/test/googletest">
+        <ccTool>
+          <preprocessorList>
+            <Elem>GTEST_CREATE_SHARED_LIBRARY=1</Elem>
+            <Elem>GTEST_HAS_PTHREAD=1</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="0/test/googletest/googletest-release-1.8.0/googlemock">
+        <ccTool>
+          <incDir>
+            <pElem>test/googletest/googletest-release-1.8.0/googlemock/include</pElem>
+            <pElem>test/googletest/googletest-release-1.8.0/googlemock</pElem>
+            <pElem>test/googletest/googletest-release-1.8.0/googletest/include</pElem>
+            <pElem>test/googletest/googletest-release-1.8.0/googletest</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>gmock_main_EXPORTS</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="0/test/htd">
+        <ccTool>
+          <incDir>
+            <pElem>include</pElem>
+            <pElem>test/googletest/googletest-release-1.8.0/googletest/include</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <item path="src/htd/AdaptiveWidthMinimizingTreeDecompositionAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/AddEmptyLeavesOperation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/AddEmptyRootOperation.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/AddIdenticalJoinNodeParentOperation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/AssemblyInfo.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/BiconnectedComponentAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/BreadthFirstGraphTraversal.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/BucketEliminationGraphDecompositionAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/BucketEliminationTreeDecompositionAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/CliqueMinimalSeparatorAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/CombinedWidthMinimizingTreeDecompositionAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/CompressionOperation.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/ConnectedComponentAlgorithmFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/DepthFirstConnectedComponentAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/DepthFirstGraphTraversal.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/DinitzMaxFlowAlgorithm.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/DirectedGraph.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/DirectedGraphFactory.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/DirectedMultiGraph.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/DirectedMultiGraphFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/EnhancedMaximumCardinalitySearchOrderingAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/ExchangeNodeReplacementOperation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/ExhaustiveVertexSelectionStrategy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/FilteredHyperedgeCollection.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/FitnessEvaluation.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/FlowNetworkStructure.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/Graph.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/GraphDecomposition.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/GraphDecompositionAlgorithmFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/GraphDecompositionFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/GraphFactory.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/GraphLabeling.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/GraphPreprocessor.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/GraphPreprocessorFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/GraphSeparatorAlgorithmFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/GreedySetCoverAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/Helpers.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/Hyperedge.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/HyperedgeDeque.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/HyperedgePointerDeque.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/HyperedgePointerVector.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/HyperedgeVector.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/Hypergraph.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/HypergraphFactory.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/HypertreeDecomposition.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/HypertreeDecompositionAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/HypertreeDecompositionAlgorithmFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/HypertreeDecompositionFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/Id.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/InducedSubgraphLabelingOperation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/IterativeImprovementTreeDecompositionAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/JoinNodeComplexityReductionOperation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/JoinNodeNormalizationOperation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/JoinNodeReplacementOperation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabelCollection.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledDirectedGraph.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledDirectedGraphFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledDirectedMultiGraph.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledDirectedMultiGraphFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledGraph.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledGraphFactory.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledHypergraph.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledHypergraphFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledMultiGraph.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledMultiGraphFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledMultiHypergraph.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledMultiHypergraphFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledPath.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledPathFactory.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledTree.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabeledTreeFactory.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LabelingCollection.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LibraryInstance.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LimitChildCountOperation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LimitMaximumForgottenVertexCountOperation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/LimitMaximumIntroducedVertexCountOperation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/MaximumCardinalitySearchOrderingAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/MinDegreeOrderingAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/MinFillOrderingAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/MinimumSeparatorAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/MultiGraph.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/MultiGraphFactory.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/MultiHypergraph.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/MultiHypergraphFactory.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/NaturalOrderingAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/NormalizationOperation.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/OrderingAlgorithmFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/Path.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/PathDecomposition.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/PathDecompositionAlgorithmFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/PathDecompositionFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/PostOrderTreeTraversal.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/PostProcessingPathDecompositionAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/PreOrderTreeTraversal.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/PreprocessedGraph.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/RandomOrderingAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/RandomVertexSelectionStrategy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/SemiNormalizationOperation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/SeparatorBasedTreeDecompositionAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/SetCoverAlgorithm.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/SetCoverAlgorithmFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/SingleNeighborVertexSelectionStrategy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/State.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/StronglyConnectedComponentAlgorithmFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/TarjanStronglyConnectedComponentAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/TemplateInstantiations.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/Tree.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/TreeDecomposition.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/TreeDecompositionAlgorithmFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/TreeDecompositionFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/TreeDecompositionOptimizationOperation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/TreeDecompositionVerifier.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/TriangulationMinimizationOrderingAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/TrivialTreeDecompositionAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/Vertex.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/VertexOrdering.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/WeakNormalizationOperation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/WidthMinimizingTreeDecompositionAlgorithm.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd/WidthReductionOperation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_cli/Choice.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_cli/MultiValueOption.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_cli/Option.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_cli/OptionManager.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_cli/SingleValueOption.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_cli/ValueOption.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_io/GrFormatGraphToTreeDecompositionProcessor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_io/GrFormatImporter.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_io/HgrFormatGraphToTreeDecompositionProcessor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_io/HgrFormatImporter.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_io/HumanReadableExporter.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_io/LpFormatGraphToTreeDecompositionProcessor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_io/LpFormatImporter.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_io/TdFormatExporter.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_io/WidthExporter.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="src/htd_main/main.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/googletest/googletest-release-1.8.0/googlemock/src/gmock-all.cc"
+            ex="false"
+            tool="1"
+            flavor2="0">
+        <ccTool flags="0">
+        </ccTool>
+      </item>
+      <item path="test/googletest/googletest-release-1.8.0/googlemock/src/gmock_main.cc"
+            ex="false"
+            tool="1"
+            flavor2="0">
+        <ccTool flags="0">
+        </ccTool>
+      </item>
+      <item path="test/googletest/googletest-release-1.8.0/googletest/src/gtest-all.cc"
+            ex="false"
+            tool="1"
+            flavor2="0">
+        <ccTool flags="0">
+          <incDir>
+            <pElem>test/googletest/googletest-release-1.8.0/googlemock/include</pElem>
+            <pElem>test/googletest/googletest-release-1.8.0/googlemock</pElem>
+            <pElem>test/googletest/googletest-release-1.8.0/googletest/include</pElem>
+            <pElem>test/googletest/googletest-release-1.8.0/googletest</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>gmock_main_EXPORTS</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="test/googletest/googletest-release-1.8.0/googletest/src/gtest_main.cc"
+            ex="false"
+            tool="1"
+            flavor2="0">
+        <ccTool flags="0">
+          <incDir>
+            <pElem>test/googletest/googletest-release-1.8.0/googletest/include</pElem>
+            <pElem>test/googletest/googletest-release-1.8.0/googletest</pElem>
+            <pElem>test/googletest/googletest-release-1.8.0/googlemock/gtest</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>gtest_main_EXPORTS</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="test/htd/BucketEliminationGraphDecompositionAlgorithmTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/BucketEliminationTreeDecompositionAlgorithmTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/ConnectedComponentAlgorithmTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/FactoryTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/FilteredHyperedgeCollectionTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/GraphDecompositionTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/GraphLabelingTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/GraphPreprocessorTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/GraphTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/HelperTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/HyperedgeTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/HypergraphTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/HypertreeDecompositionAlgorithmTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/HypertreeDecompositionTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/IteratorTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/LabelCollectionTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/LabeledDirectedGraphTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/LabeledDirectedMultiGraphTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/LabeledGraphTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/LabeledHypergraphTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/LabeledMultiGraphTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/LabelingCollectionTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/LibraryInstanceTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/ManipulationOperationTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/MaximumCardinalitySearchOrderingAlgorithmTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/MinDegreeOrderingAlgorithmTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/MinFillOrderingAlgorithmTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/MultiGraphTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/MultiHypergraphTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/PathDecompositionTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/PathTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/PostProcessingPathDecompositionAlgorithmTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/RandomOrderingAlgorithmTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/SetCoverAlgorithmTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/TreeDecompositionOptimizationTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/TreeDecompositionTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/TreeTest.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="test/htd/VertexSelectionStrategyTest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

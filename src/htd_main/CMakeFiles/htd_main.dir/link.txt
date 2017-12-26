@@ -1,0 +1,1 @@
+/usr/bin/clang++    -Wall -pedantic -Wextra -g3 -gdwarf-2   CMakeFiles/htd_main.dir/main.cpp.o  -o ../../bin/htd_main-1.2.0 -rdynamic ../../lib/libhtd.so.0.0.0 ../../lib/libhtd_io.so.0.0.0 ../../lib/libhtd_cli.so.0.0.0 -Wl,-rpath,/home/kreshnik/Thesis/HTD/htd/lib: 

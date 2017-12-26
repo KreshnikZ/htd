@@ -1,0 +1,53 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/kreshnik/Thesis/HTD/htd/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec4181247870/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec4181247870.dir/build.make CMakeFiles/cmTryCompileExec4181247870.dir/build
+make[1]: Entering directory `/home/kreshnik/Thesis/HTD/htd/CMakeFiles/CMakeTmp'
+/usr/local/bin/cmake -E cmake_progress_report /home/kreshnik/Thesis/HTD/htd/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4181247870.dir/CheckSymbolExists.c.o
+/usr/bin/clang    -o CMakeFiles/cmTryCompileExec4181247870.dir/CheckSymbolExists.c.o   -c /home/kreshnik/Thesis/HTD/htd/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec4181247870
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4181247870.dir/link.txt --verbose=1
+/usr/bin/clang       CMakeFiles/cmTryCompileExec4181247870.dir/CheckSymbolExists.c.o  -o cmTryCompileExec4181247870 -rdynamic 
+CMakeFiles/cmTryCompileExec4181247870.dir/CheckSymbolExists.c.o: In function `main':
+/home/kreshnik/Thesis/HTD/htd/CMakeFiles/CMakeTmp/CheckSymbolExists.c:(.text+0x19): undefined reference to `pthread_create'
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTryCompileExec4181247870] Error 1
+make[1]: Leaving directory `/home/kreshnik/Thesis/HTD/htd/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec4181247870/fast] Error 2
+
+File /home/kreshnik/Thesis/HTD/htd/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/kreshnik/Thesis/HTD/htd/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2248787795/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2248787795.dir/build.make CMakeFiles/cmTryCompileExec2248787795.dir/build
+make[1]: Entering directory `/home/kreshnik/Thesis/HTD/htd/CMakeFiles/CMakeTmp'
+/usr/local/bin/cmake -E cmake_progress_report /home/kreshnik/Thesis/HTD/htd/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2248787795.dir/CheckFunctionExists.c.o
+/usr/bin/clang   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec2248787795.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.2/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec2248787795
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2248787795.dir/link.txt --verbose=1
+/usr/bin/clang   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec2248787795.dir/CheckFunctionExists.c.o  -o cmTryCompileExec2248787795 -rdynamic -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: Leaving directory `/home/kreshnik/Thesis/HTD/htd/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec2248787795] Error 1
+make: *** [cmTryCompileExec2248787795/fast] Error 2
+
+

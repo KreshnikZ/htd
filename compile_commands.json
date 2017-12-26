@@ -1,0 +1,902 @@
+[
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/PreOrderTreeTraversal.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/PreOrderTreeTraversal.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/PreOrderTreeTraversal.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/MinDegreeOrderingAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/MinDegreeOrderingAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/MinDegreeOrderingAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/Tree.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/Tree.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/Tree.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/GraphFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/GraphFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/GraphFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledGraphFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledGraphFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledGraphFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/WeakNormalizationOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/WeakNormalizationOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/WeakNormalizationOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/HypertreeDecompositionFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/HypertreeDecompositionFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/HypertreeDecompositionFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/GraphSeparatorAlgorithmFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/GraphSeparatorAlgorithmFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/GraphSeparatorAlgorithmFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/PathDecompositionAlgorithmFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/PathDecompositionAlgorithmFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/PathDecompositionAlgorithmFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/PostOrderTreeTraversal.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/PostOrderTreeTraversal.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/PostOrderTreeTraversal.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/FitnessEvaluation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/FitnessEvaluation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/FitnessEvaluation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/JoinNodeReplacementOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/JoinNodeReplacementOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/JoinNodeReplacementOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/HyperedgePointerDeque.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/HyperedgePointerDeque.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/HyperedgePointerDeque.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/ExhaustiveVertexSelectionStrategy.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/ExhaustiveVertexSelectionStrategy.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/ExhaustiveVertexSelectionStrategy.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/State.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/State.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/State.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledGraph.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledGraph.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledGraph.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/NormalizationOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/NormalizationOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/NormalizationOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/DirectedMultiGraphFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/DirectedMultiGraphFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/DirectedMultiGraphFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/StronglyConnectedComponentAlgorithmFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/StronglyConnectedComponentAlgorithmFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/StronglyConnectedComponentAlgorithmFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/RandomVertexSelectionStrategy.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/RandomVertexSelectionStrategy.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/RandomVertexSelectionStrategy.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/BreadthFirstGraphTraversal.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/BreadthFirstGraphTraversal.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/BreadthFirstGraphTraversal.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/TreeDecompositionFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/TreeDecompositionFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/TreeDecompositionFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledTree.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledTree.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledTree.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/CombinedWidthMinimizingTreeDecompositionAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/CombinedWidthMinimizingTreeDecompositionAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/CombinedWidthMinimizingTreeDecompositionAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/SeparatorBasedTreeDecompositionAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/SeparatorBasedTreeDecompositionAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/SeparatorBasedTreeDecompositionAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LibraryInstance.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LibraryInstance.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LibraryInstance.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/BucketEliminationGraphDecompositionAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/BucketEliminationGraphDecompositionAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/BucketEliminationGraphDecompositionAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/Helpers.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/Helpers.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/Helpers.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledDirectedGraphFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledDirectedGraphFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledDirectedGraphFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/NaturalOrderingAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/NaturalOrderingAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/NaturalOrderingAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/IterativeImprovementTreeDecompositionAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/IterativeImprovementTreeDecompositionAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/IterativeImprovementTreeDecompositionAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/SetCoverAlgorithmFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/SetCoverAlgorithmFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/SetCoverAlgorithmFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/WidthMinimizingTreeDecompositionAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/WidthMinimizingTreeDecompositionAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/WidthMinimizingTreeDecompositionAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/AssemblyInfo.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/AssemblyInfo.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/AssemblyInfo.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledMultiHypergraph.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledMultiHypergraph.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledMultiHypergraph.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/Graph.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/Graph.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/Graph.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/TreeDecompositionVerifier.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/TreeDecompositionVerifier.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/TreeDecompositionVerifier.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/DirectedGraphFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/DirectedGraphFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/DirectedGraphFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/BucketEliminationTreeDecompositionAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/BucketEliminationTreeDecompositionAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/BucketEliminationTreeDecompositionAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/FilteredHyperedgeCollection.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/FilteredHyperedgeCollection.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/FilteredHyperedgeCollection.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledHypergraph.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledHypergraph.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledHypergraph.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/WidthReductionOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/WidthReductionOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/WidthReductionOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/Hypergraph.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/Hypergraph.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/Hypergraph.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabelCollection.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabelCollection.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabelCollection.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/PostProcessingPathDecompositionAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/PostProcessingPathDecompositionAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/PostProcessingPathDecompositionAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/HypertreeDecompositionAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/HypertreeDecompositionAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/HypertreeDecompositionAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/TreeDecompositionAlgorithmFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/TreeDecompositionAlgorithmFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/TreeDecompositionAlgorithmFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/DirectedGraph.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/DirectedGraph.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/DirectedGraph.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/InducedSubgraphLabelingOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/InducedSubgraphLabelingOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/InducedSubgraphLabelingOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabelingCollection.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabelingCollection.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabelingCollection.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LimitMaximumIntroducedVertexCountOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LimitMaximumIntroducedVertexCountOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LimitMaximumIntroducedVertexCountOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/GraphDecompositionAlgorithmFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/GraphDecompositionAlgorithmFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/GraphDecompositionAlgorithmFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/Id.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/Id.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/Id.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/GraphDecompositionFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/GraphDecompositionFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/GraphDecompositionFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/HyperedgeVector.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/HyperedgeVector.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/HyperedgeVector.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/GraphLabeling.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/GraphLabeling.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/GraphLabeling.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledMultiGraph.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledMultiGraph.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledMultiGraph.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledMultiHypergraphFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledMultiHypergraphFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledMultiHypergraphFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/TreeDecomposition.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/TreeDecomposition.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/TreeDecomposition.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/RandomOrderingAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/RandomOrderingAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/RandomOrderingAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/TrivialTreeDecompositionAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/TrivialTreeDecompositionAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/TrivialTreeDecompositionAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/MultiGraphFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/MultiGraphFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/MultiGraphFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/TreeDecompositionOptimizationOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/TreeDecompositionOptimizationOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/TreeDecompositionOptimizationOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/MinFillOrderingAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/MinFillOrderingAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/MinFillOrderingAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/BiconnectedComponentAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/BiconnectedComponentAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/BiconnectedComponentAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledDirectedMultiGraph.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledDirectedMultiGraph.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledDirectedMultiGraph.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/MinimumSeparatorAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/MinimumSeparatorAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/MinimumSeparatorAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/EnhancedMaximumCardinalitySearchOrderingAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/EnhancedMaximumCardinalitySearchOrderingAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/EnhancedMaximumCardinalitySearchOrderingAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/Hyperedge.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/Hyperedge.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/Hyperedge.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/DepthFirstConnectedComponentAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/DepthFirstConnectedComponentAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/DepthFirstConnectedComponentAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/SingleNeighborVertexSelectionStrategy.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/SingleNeighborVertexSelectionStrategy.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/SingleNeighborVertexSelectionStrategy.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/Path.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/Path.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/Path.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/CompressionOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/CompressionOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/CompressionOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/GraphPreprocessor.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/GraphPreprocessor.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/GraphPreprocessor.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/VertexOrdering.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/VertexOrdering.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/VertexOrdering.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/Vertex.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/Vertex.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/Vertex.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/FlowNetworkStructure.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/FlowNetworkStructure.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/FlowNetworkStructure.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/GreedySetCoverAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/GreedySetCoverAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/GreedySetCoverAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LimitChildCountOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LimitChildCountOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LimitChildCountOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/DirectedMultiGraph.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/DirectedMultiGraph.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/DirectedMultiGraph.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/PathDecomposition.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/PathDecomposition.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/PathDecomposition.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledPath.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledPath.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledPath.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/TarjanStronglyConnectedComponentAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/TarjanStronglyConnectedComponentAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/TarjanStronglyConnectedComponentAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/MultiHypergraph.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/MultiHypergraph.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/MultiHypergraph.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/PreprocessedGraph.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/PreprocessedGraph.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/PreprocessedGraph.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/JoinNodeNormalizationOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/JoinNodeNormalizationOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/JoinNodeNormalizationOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/DinitzMaxFlowAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/DinitzMaxFlowAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/DinitzMaxFlowAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledMultiGraphFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledMultiGraphFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledMultiGraphFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/CliqueMinimalSeparatorAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/CliqueMinimalSeparatorAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/CliqueMinimalSeparatorAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledTreeFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledTreeFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledTreeFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/SemiNormalizationOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/SemiNormalizationOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/SemiNormalizationOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/HypertreeDecomposition.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/HypertreeDecomposition.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/HypertreeDecomposition.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/DepthFirstGraphTraversal.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/DepthFirstGraphTraversal.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/DepthFirstGraphTraversal.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/SetCoverAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/SetCoverAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/SetCoverAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/AddEmptyRootOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/AddEmptyRootOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/AddEmptyRootOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/AdaptiveWidthMinimizingTreeDecompositionAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/AdaptiveWidthMinimizingTreeDecompositionAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/AdaptiveWidthMinimizingTreeDecompositionAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/HypergraphFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/HypergraphFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/HypergraphFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/MaximumCardinalitySearchOrderingAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/MaximumCardinalitySearchOrderingAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/MaximumCardinalitySearchOrderingAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledHypergraphFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledHypergraphFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledHypergraphFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/HypertreeDecompositionAlgorithmFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/HypertreeDecompositionAlgorithmFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/HypertreeDecompositionAlgorithmFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LimitMaximumForgottenVertexCountOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LimitMaximumForgottenVertexCountOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LimitMaximumForgottenVertexCountOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/TemplateInstantiations.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/TemplateInstantiations.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/TemplateInstantiations.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/OrderingAlgorithmFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/OrderingAlgorithmFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/OrderingAlgorithmFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/AddEmptyLeavesOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/AddEmptyLeavesOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/AddEmptyLeavesOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/ExchangeNodeReplacementOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/ExchangeNodeReplacementOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/ExchangeNodeReplacementOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/JoinNodeComplexityReductionOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/JoinNodeComplexityReductionOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/JoinNodeComplexityReductionOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledDirectedMultiGraphFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledDirectedMultiGraphFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledDirectedMultiGraphFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/HyperedgePointerVector.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/HyperedgePointerVector.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/HyperedgePointerVector.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledDirectedGraph.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledDirectedGraph.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledDirectedGraph.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/AddIdenticalJoinNodeParentOperation.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/AddIdenticalJoinNodeParentOperation.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/AddIdenticalJoinNodeParentOperation.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/GraphPreprocessorFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/GraphPreprocessorFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/GraphPreprocessorFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/MultiGraph.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/MultiGraph.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/MultiGraph.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/GraphDecomposition.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/GraphDecomposition.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/GraphDecomposition.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/TriangulationMinimizationOrderingAlgorithm.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/TriangulationMinimizationOrderingAlgorithm.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/TriangulationMinimizationOrderingAlgorithm.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/MultiHypergraphFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/MultiHypergraphFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/MultiHypergraphFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/PathDecompositionFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/PathDecompositionFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/PathDecompositionFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/LabeledPathFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/LabeledPathFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/LabeledPathFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/HyperedgeDeque.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/HyperedgeDeque.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/HyperedgeDeque.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd",
+  "command": "/usr/bin/clang++   -Dhtd_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd.dir/ConnectedComponentAlgorithmFactory.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd/ConnectedComponentAlgorithmFactory.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd/ConnectedComponentAlgorithmFactory.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_io",
+  "command": "/usr/bin/clang++   -Dhtd_io_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_io.dir/GrFormatImporter.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_io/GrFormatImporter.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_io/GrFormatImporter.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_io",
+  "command": "/usr/bin/clang++   -Dhtd_io_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_io.dir/GrFormatGraphToTreeDecompositionProcessor.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_io/GrFormatGraphToTreeDecompositionProcessor.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_io/GrFormatGraphToTreeDecompositionProcessor.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_io",
+  "command": "/usr/bin/clang++   -Dhtd_io_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_io.dir/LpFormatImporter.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_io/LpFormatImporter.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_io/LpFormatImporter.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_io",
+  "command": "/usr/bin/clang++   -Dhtd_io_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_io.dir/HumanReadableExporter.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_io/HumanReadableExporter.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_io/HumanReadableExporter.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_io",
+  "command": "/usr/bin/clang++   -Dhtd_io_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_io.dir/LpFormatGraphToTreeDecompositionProcessor.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_io/LpFormatGraphToTreeDecompositionProcessor.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_io/LpFormatGraphToTreeDecompositionProcessor.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_io",
+  "command": "/usr/bin/clang++   -Dhtd_io_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_io.dir/WidthExporter.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_io/WidthExporter.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_io/WidthExporter.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_io",
+  "command": "/usr/bin/clang++   -Dhtd_io_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_io.dir/HgrFormatImporter.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_io/HgrFormatImporter.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_io/HgrFormatImporter.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_io",
+  "command": "/usr/bin/clang++   -Dhtd_io_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_io.dir/TdFormatExporter.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_io/TdFormatExporter.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_io/TdFormatExporter.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_io",
+  "command": "/usr/bin/clang++   -Dhtd_io_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_io.dir/HgrFormatGraphToTreeDecompositionProcessor.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_io/HgrFormatGraphToTreeDecompositionProcessor.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_io/HgrFormatGraphToTreeDecompositionProcessor.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_cli",
+  "command": "/usr/bin/clang++   -Dhtd_cli_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_cli.dir/SingleValueOption.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_cli/SingleValueOption.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_cli/SingleValueOption.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_cli",
+  "command": "/usr/bin/clang++   -Dhtd_cli_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_cli.dir/Choice.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_cli/Choice.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_cli/Choice.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_cli",
+  "command": "/usr/bin/clang++   -Dhtd_cli_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_cli.dir/ValueOption.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_cli/ValueOption.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_cli/ValueOption.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_cli",
+  "command": "/usr/bin/clang++   -Dhtd_cli_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_cli.dir/MultiValueOption.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_cli/MultiValueOption.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_cli/MultiValueOption.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_cli",
+  "command": "/usr/bin/clang++   -Dhtd_cli_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_cli.dir/Option.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_cli/Option.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_cli/Option.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_cli",
+  "command": "/usr/bin/clang++   -Dhtd_cli_EXPORTS  -Wall -pedantic -Wextra -fvisibility=hidden -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_cli.dir/OptionManager.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_cli/OptionManager.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_cli/OptionManager.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/src/htd_main",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include    -std=gnu++11 -o CMakeFiles/htd_main.dir/main.cpp.o -c /home/kreshnik/Thesis/HTD/htd/src/htd_main/main.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/src/htd_main/main.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock",
+  "command": "/usr/bin/clang++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest      -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.o -c /home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/src/gtest-all.cc",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock",
+  "command": "/usr/bin/clang++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest      -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock/src/gmock-all.cc",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock",
+  "command": "/usr/bin/clang++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest      -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o -c /home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/src/gtest-all.cc",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock",
+  "command": "/usr/bin/clang++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest      -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c /home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock/src/gmock-all.cc",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock",
+  "command": "/usr/bin/clang++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -g3 -gdwarf-2 -fPIC -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest      -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock/src/gmock_main.cc",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock/gtest",
+  "command": "/usr/bin/clang++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -g3 -gdwarf-2 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest      -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/src/gtest-all.cc",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googlemock/gtest",
+  "command": "/usr/bin/clang++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -g3 -gdwarf-2 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest      -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/src/gtest_main.cc",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/BucketEliminationGraphDecompositionAlgorithmTest.dir/BucketEliminationGraphDecompositionAlgorithmTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/BucketEliminationGraphDecompositionAlgorithmTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/BucketEliminationGraphDecompositionAlgorithmTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/BucketEliminationTreeDecompositionAlgorithmTest.dir/BucketEliminationTreeDecompositionAlgorithmTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/BucketEliminationTreeDecompositionAlgorithmTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/BucketEliminationTreeDecompositionAlgorithmTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/ConnectedComponentAlgorithmTest.dir/ConnectedComponentAlgorithmTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/ConnectedComponentAlgorithmTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/ConnectedComponentAlgorithmTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/FactoryTest.dir/FactoryTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/FactoryTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/FactoryTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/FilteredHyperedgeCollectionTest.dir/FilteredHyperedgeCollectionTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/FilteredHyperedgeCollectionTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/FilteredHyperedgeCollectionTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/GraphDecompositionTest.dir/GraphDecompositionTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/GraphDecompositionTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/GraphDecompositionTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/GraphLabelingTest.dir/GraphLabelingTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/GraphLabelingTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/GraphLabelingTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/GraphPreprocessorTest.dir/GraphPreprocessorTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/GraphPreprocessorTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/GraphPreprocessorTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/GraphTest.dir/GraphTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/GraphTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/GraphTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/HelperTest.dir/HelperTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/HelperTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/HelperTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/HyperedgeTest.dir/HyperedgeTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/HyperedgeTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/HyperedgeTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/HypergraphTest.dir/HypergraphTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/HypergraphTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/HypergraphTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/HypertreeDecompositionAlgorithmTest.dir/HypertreeDecompositionAlgorithmTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/HypertreeDecompositionAlgorithmTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/HypertreeDecompositionAlgorithmTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/HypertreeDecompositionTest.dir/HypertreeDecompositionTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/HypertreeDecompositionTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/HypertreeDecompositionTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/IteratorTest.dir/IteratorTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/IteratorTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/IteratorTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/LabelCollectionTest.dir/LabelCollectionTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/LabelCollectionTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/LabelCollectionTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/LabeledDirectedGraphTest.dir/LabeledDirectedGraphTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/LabeledDirectedGraphTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/LabeledDirectedGraphTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/LabeledDirectedMultiGraphTest.dir/LabeledDirectedMultiGraphTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/LabeledDirectedMultiGraphTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/LabeledDirectedMultiGraphTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/LabeledGraphTest.dir/LabeledGraphTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/LabeledGraphTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/LabeledGraphTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/LabeledHypergraphTest.dir/LabeledHypergraphTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/LabeledHypergraphTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/LabeledHypergraphTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/LabeledMultiGraphTest.dir/LabeledMultiGraphTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/LabeledMultiGraphTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/LabeledMultiGraphTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/LabelingCollectionTest.dir/LabelingCollectionTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/LabelingCollectionTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/LabelingCollectionTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/LibraryInstanceTest.dir/LibraryInstanceTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/LibraryInstanceTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/LibraryInstanceTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/ManipulationOperationTest.dir/ManipulationOperationTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/ManipulationOperationTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/ManipulationOperationTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/MaximumCardinalitySearchOrderingAlgorithmTest.dir/MaximumCardinalitySearchOrderingAlgorithmTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/MaximumCardinalitySearchOrderingAlgorithmTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/MaximumCardinalitySearchOrderingAlgorithmTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/MinDegreeOrderingAlgorithmTest.dir/MinDegreeOrderingAlgorithmTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/MinDegreeOrderingAlgorithmTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/MinDegreeOrderingAlgorithmTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/MinFillOrderingAlgorithmTest.dir/MinFillOrderingAlgorithmTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/MinFillOrderingAlgorithmTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/MinFillOrderingAlgorithmTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/MultiGraphTest.dir/MultiGraphTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/MultiGraphTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/MultiGraphTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/MultiHypergraphTest.dir/MultiHypergraphTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/MultiHypergraphTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/MultiHypergraphTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/PathDecompositionTest.dir/PathDecompositionTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/PathDecompositionTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/PathDecompositionTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/PathTest.dir/PathTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/PathTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/PathTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/PostProcessingPathDecompositionAlgorithmTest.dir/PostProcessingPathDecompositionAlgorithmTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/PostProcessingPathDecompositionAlgorithmTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/PostProcessingPathDecompositionAlgorithmTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/RandomOrderingAlgorithmTest.dir/RandomOrderingAlgorithmTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/RandomOrderingAlgorithmTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/RandomOrderingAlgorithmTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/SetCoverAlgorithmTest.dir/SetCoverAlgorithmTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/SetCoverAlgorithmTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/SetCoverAlgorithmTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/TreeDecompositionOptimizationTest.dir/TreeDecompositionOptimizationTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/TreeDecompositionOptimizationTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/TreeDecompositionOptimizationTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/TreeDecompositionTest.dir/TreeDecompositionTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/TreeDecompositionTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/TreeDecompositionTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/TreeTest.dir/TreeTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/TreeTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/TreeTest.cpp"
+},
+{
+  "directory": "/home/kreshnik/Thesis/HTD/htd/test/htd",
+  "command": "/usr/bin/clang++     -Wall -pedantic -Wextra -g3 -gdwarf-2 -I/home/kreshnik/Thesis/HTD/htd/include -I/home/kreshnik/Thesis/HTD/htd/test/googletest/googletest-release-1.8.0/googletest/include    -std=gnu++11 -o CMakeFiles/VertexSelectionStrategyTest.dir/VertexSelectionStrategyTest.cpp.o -c /home/kreshnik/Thesis/HTD/htd/test/htd/VertexSelectionStrategyTest.cpp",
+  "file": "/home/kreshnik/Thesis/HTD/htd/test/htd/VertexSelectionStrategyTest.cpp"
+}
+]

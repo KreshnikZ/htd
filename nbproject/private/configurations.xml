@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="bin">
+      </df>
+      <df name="cmake">
+        <df name="templates">
+          <df name="htd">
+          </df>
+          <df name="htd_cli">
+          </df>
+          <df name="htd_io">
+          </df>
+        </df>
+      </df>
+      <df name="CMakeFiles">
+        <df name="3.2.0">
+          <df name="CompilerIdC">
+            <in>CMakeCCompilerId.c</in>
+          </df>
+          <df name="CompilerIdCXX">
+            <in>CMakeCXXCompilerId.cpp</in>
+          </df>
+        </df>
+        <df name="CMakeTmp">
+        </df>
+        <df name="Continuous.dir">
+        </df>
+        <df name="ContinuousBuild.dir">
+        </df>
+        <df name="ContinuousConfigure.dir">
+        </df>
+        <df name="ContinuousCoverage.dir">
+        </df>
+        <df name="ContinuousMemCheck.dir">
+        </df>
+        <df name="ContinuousStart.dir">
+        </df>
+        <df name="ContinuousSubmit.dir">
+        </df>
+        <df name="ContinuousTest.dir">
+        </df>
+        <df name="ContinuousUpdate.dir">
+        </df>
+        <df name="doc.dir">
+        </df>
+        <df name="Experimental.dir">
+        </df>
+        <df name="ExperimentalBuild.dir">
+        </df>
+        <df name="ExperimentalConfigure.dir">
+        </df>
+        <df name="ExperimentalCoverage.dir">
+        </df>
+        <df name="ExperimentalMemCheck.dir">
+        </df>
+        <df name="ExperimentalStart.dir">
+        </df>
+        <df name="ExperimentalSubmit.dir">
+        </df>
+        <df name="ExperimentalTest.dir">
+        </df>
+        <df name="ExperimentalUpdate.dir">
+        </df>
+        <df name="Nightly.dir">
+        </df>
+        <df name="NightlyBuild.dir">
+        </df>
+        <df name="NightlyConfigure.dir">
+        </df>
+        <df name="NightlyCoverage.dir">
+        </df>
+        <df name="NightlyMemCheck.dir">
+        </df>
+        <df name="NightlyMemoryCheck.dir">
+        </df>
+        <df name="NightlyStart.dir">
+        </df>
+        <df name="NightlySubmit.dir">
+        </df>
+        <df name="NightlyTest.dir">
+        </df>
+        <df name="NightlyUpdate.dir">
+        </df>
+        <df name="uninstall.dir">
+        </df>
+        <in>feature_tests.c</in>
+        <in>feature_tests.cxx</in>
+      </df>
+      <df name="include">
+        <df name="htd">
+          <in>AdaptiveWidthMinimizingTreeDecompositionAlgorithm.hpp</in>
+          <in>AddEmptyLeavesOperation.hpp</in>
+          <in>AddEmptyRootOperation.hpp</in>
+          <in>AddIdenticalJoinNodeParentOperation.hpp</in>
+          <in>Algorithm.hpp</in>
+          <in>AlgorithmFactory.hpp</in>
+          <in>AssemblyInfo.hpp</in>
+          <in>BiconnectedComponentAlgorithm.hpp</in>
+          <in>BidirectionalGraphNaming.hpp</in>
+          <in>BreadthFirstGraphTraversal.hpp</in>
+          <in>BucketEliminationGraphDecompositionAlgorithm.hpp</in>
+          <in>BucketEliminationTreeDecompositionAlgorithm.hpp</in>
+          <in>CliqueMinimalSeparatorAlgorithm.hpp</in>
+          <in>Collection.hpp</in>
+          <in>CombinedWidthMinimizingTreeDecompositionAlgorithm.hpp</in>
+          <in>CompilerDetection.hpp</in>
+          <in>CompressionOperation.hpp</in>
+          <in>ConnectedComponentAlgorithmFactory.hpp</in>
+          <in>ConstCollection.hpp</in>
+          <in>ConstIterator.hpp</in>
+          <in>ConstIteratorBase.hpp</in>
+          <in>ConstIteratorWrapper.hpp</in>
+          <in>ConstPointerIteratorWrapper.hpp</in>
+          <in>DepthFirstConnectedComponentAlgorithm.hpp</in>
+          <in>DepthFirstGraphTraversal.hpp</in>
+          <in>DinitzMaxFlowAlgorithm.hpp</in>
+          <in>DirectedGraph.hpp</in>
+          <in>DirectedGraphFactory.hpp</in>
+          <in>DirectedMultiGraph.hpp</in>
+          <in>DirectedMultiGraphFactory.hpp</in>
+          <in>EnhancedMaximumCardinalitySearchOrderingAlgorithm.hpp</in>
+          <in>ExchangeNodeReplacementOperation.hpp</in>
+          <in>ExhaustiveVertexSelectionStrategy.hpp</in>
+          <in>FilteredHyperedgeCollection.hpp</in>
+          <in>FitnessEvaluation.hpp</in>
+          <in>FlowNetworkStructure.hpp</in>
+          <in>Globals.hpp</in>
+          <in>Graph.hpp</in>
+          <in>GraphDecomposition.hpp</in>
+          <in>GraphDecompositionAlgorithmFactory.hpp</in>
+          <in>GraphDecompositionFactory.hpp</in>
+          <in>GraphFactory.hpp</in>
+          <in>GraphLabeling.hpp</in>
+          <in>GraphPreprocessor.hpp</in>
+          <in>GraphPreprocessorFactory.hpp</in>
+          <in>GraphSeparatorAlgorithmFactory.hpp</in>
+          <in>GraphTypeFactory.hpp</in>
+          <in>GreedySetCoverAlgorithm.hpp</in>
+          <in>Helpers.hpp</in>
+          <in>Hyperedge.hpp</in>
+          <in>HyperedgeDeque.hpp</in>
+          <in>HyperedgePointerDeque.hpp</in>
+          <in>HyperedgePointerVector.hpp</in>
+          <in>HyperedgeVector.hpp</in>
+          <in>Hypergraph.hpp</in>
+          <in>HypergraphFactory.hpp</in>
+          <in>HypertreeDecomposition.hpp</in>
+          <in>HypertreeDecompositionAlgorithm.hpp</in>
+          <in>HypertreeDecompositionAlgorithmFactory.hpp</in>
+          <in>HypertreeDecompositionFactory.hpp</in>
+          <in>IBiconnectedComponentAlgorithm.hpp</in>
+          <in>IConnectedComponentAlgorithm.hpp</in>
+          <in>ICustomizedTreeDecompositionAlgorithm.hpp</in>
+          <in>IDecompositionManipulationOperation.hpp</in>
+          <in>IDirectedGraph.hpp</in>
+          <in>IDirectedMultiGraph.hpp</in>
+          <in>IFlow.hpp</in>
+          <in>IFlowNetworkStructure.hpp</in>
+          <in>IGraph.hpp</in>
+          <in>IGraphDecomposition.hpp</in>
+          <in>IGraphDecompositionAlgorithm.hpp</in>
+          <in>IGraphDecompositionManipulationOperation.hpp</in>
+          <in>IGraphLabeling.hpp</in>
+          <in>IGraphPreprocessor.hpp</in>
+          <in>IGraphSeparatorAlgorithm.hpp</in>
+          <in>IGraphStructure.hpp</in>
+          <in>IGraphTraversal.hpp</in>
+          <in>IHyperedgeCollection.hpp</in>
+          <in>IHypergraph.hpp</in>
+          <in>IHypertreeDecomposition.hpp</in>
+          <in>IHypertreeDecompositionAlgorithm.hpp</in>
+          <in>ILabel.hpp</in>
+          <in>ILabelCollection.hpp</in>
+          <in>ILabeledDirectedGraph.hpp</in>
+          <in>ILabeledDirectedMultiGraph.hpp</in>
+          <in>ILabeledGraph.hpp</in>
+          <in>ILabeledHypergraph.hpp</in>
+          <in>ILabeledMultiGraph.hpp</in>
+          <in>ILabeledMultiHypergraph.hpp</in>
+          <in>ILabeledPath.hpp</in>
+          <in>ILabeledTree.hpp</in>
+          <in>ILabelingCollection.hpp</in>
+          <in>ILabelingFunction.hpp</in>
+          <in>IMaxFlowAlgorithm.hpp</in>
+          <in>IMultiGraph.hpp</in>
+          <in>IMultiHypergraph.hpp</in>
+          <in>IMutableDirectedGraph.hpp</in>
+          <in>IMutableDirectedMultiGraph.hpp</in>
+          <in>IMutableGraph.hpp</in>
+          <in>IMutableGraphDecomposition.hpp</in>
+          <in>IMutableHypergraph.hpp</in>
+          <in>IMutableHypertreeDecomposition.hpp</in>
+          <in>IMutableLabeledDirectedGraph.hpp</in>
+          <in>IMutableLabeledDirectedMultiGraph.hpp</in>
+          <in>IMutableLabeledGraph.hpp</in>
+          <in>IMutableLabeledHypergraph.hpp</in>
+          <in>IMutableLabeledMultiGraph.hpp</in>
+          <in>IMutableLabeledMultiHypergraph.hpp</in>
+          <in>IMutableLabeledPath.hpp</in>
+          <in>IMutableLabeledTree.hpp</in>
+          <in>IMutableMultiGraph.hpp</in>
+          <in>IMutableMultiHypergraph.hpp</in>
+          <in>IMutablePath.hpp</in>
+          <in>IMutablePathDecomposition.hpp</in>
+          <in>IMutableTree.hpp</in>
+          <in>IMutableTreeDecomposition.hpp</in>
+          <in>IOrderingAlgorithm.hpp</in>
+          <in>IPath.hpp</in>
+          <in>IPathDecomposition.hpp</in>
+          <in>IPathDecompositionAlgorithm.hpp</in>
+          <in>IPathDecompositionManipulationOperation.hpp</in>
+          <in>IPreprocessedGraph.hpp</in>
+          <in>ISetCoverAlgorithm.hpp</in>
+          <in>IStronglyConnectedComponentAlgorithm.hpp</in>
+          <in>ITree.hpp</in>
+          <in>ITreeDecomposition.hpp</in>
+          <in>ITreeDecompositionAlgorithm.hpp</in>
+          <in>ITreeDecompositionFitnessFunction.hpp</in>
+          <in>ITreeDecompositionManipulationOperation.hpp</in>
+          <in>ITreeDecompositionVerifier.hpp</in>
+          <in>ITreeTraversal.hpp</in>
+          <in>IVertexOrdering.hpp</in>
+          <in>IVertexSelectionStrategy.hpp</in>
+          <in>IWidthLimitableOrderingAlgorithm.hpp</in>
+          <in>IWidthLimitedVertexOrdering.hpp</in>
+          <in>IWidthMinimizingTreeDecompositionAlgorithm.hpp</in>
+          <in>Id.hpp</in>
+          <in>InducedSubgraphLabelingOperation.hpp</in>
+          <in>IterativeImprovementTreeDecompositionAlgorithm.hpp</in>
+          <in>Iterator.hpp</in>
+          <in>IteratorBase.hpp</in>
+          <in>IteratorWrapper.hpp</in>
+          <in>JoinNodeComplexityReductionOperation.hpp</in>
+          <in>JoinNodeNormalizationOperation.hpp</in>
+          <in>JoinNodeReplacementOperation.hpp</in>
+          <in>Label.hpp</in>
+          <in>LabelCollection.hpp</in>
+          <in>LabeledDirectedGraph.hpp</in>
+          <in>LabeledDirectedGraphFactory.hpp</in>
+          <in>LabeledDirectedMultiGraph.hpp</in>
+          <in>LabeledDirectedMultiGraphFactory.hpp</in>
+          <in>LabeledGraph.hpp</in>
+          <in>LabeledGraphFactory.hpp</in>
+          <in>LabeledGraphType.hpp</in>
+          <in>LabeledHypergraph.hpp</in>
+          <in>LabeledHypergraphFactory.hpp</in>
+          <in>LabeledMultiGraph.hpp</in>
+          <in>LabeledMultiGraphFactory.hpp</in>
+          <in>LabeledMultiHypergraph.hpp</in>
+          <in>LabeledMultiHypergraphFactory.hpp</in>
+          <in>LabeledPath.hpp</in>
+          <in>LabeledPathFactory.hpp</in>
+          <in>LabeledTree.hpp</in>
+          <in>LabeledTreeFactory.hpp</in>
+          <in>LabelingCollection.hpp</in>
+          <in>LibraryInstance.hpp</in>
+          <in>LimitChildCountOperation.hpp</in>
+          <in>LimitMaximumForgottenVertexCountOperation.hpp</in>
+          <in>LimitMaximumIntroducedVertexCountOperation.hpp</in>
+          <in>MaximumCardinalitySearchOrderingAlgorithm.hpp</in>
+          <in>MinDegreeOrderingAlgorithm.hpp</in>
+          <in>MinFillOrderingAlgorithm.hpp</in>
+          <in>MinimumSeparatorAlgorithm.hpp</in>
+          <in>MultiGraph.hpp</in>
+          <in>MultiGraphFactory.hpp</in>
+          <in>MultiHypergraph.hpp</in>
+          <in>MultiHypergraphFactory.hpp</in>
+          <in>NamedDirectedGraph.hpp</in>
+          <in>NamedDirectedMultiGraph.hpp</in>
+          <in>NamedGraph.hpp</in>
+          <in>NamedHypergraph.hpp</in>
+          <in>NamedMultiGraph.hpp</in>
+          <in>NamedMultiHypergraph.hpp</in>
+          <in>NamedPath.hpp</in>
+          <in>NamedTree.hpp</in>
+          <in>NamedVertexHyperedge.hpp</in>
+          <in>NaturalOrderingAlgorithm.hpp</in>
+          <in>NormalizationOperation.hpp</in>
+          <in>OrderingAlgorithmFactory.hpp</in>
+          <in>Path.hpp</in>
+          <in>PathDecomposition.hpp</in>
+          <in>PathDecompositionAlgorithmFactory.hpp</in>
+          <in>PathDecompositionFactory.hpp</in>
+          <in>PostOrderTreeTraversal.hpp</in>
+          <in>PostProcessingPathDecompositionAlgorithm.hpp</in>
+          <in>PreOrderTreeTraversal.hpp</in>
+          <in>PreprocessedGraph.hpp</in>
+          <in>PreprocessorDefinitions.hpp</in>
+          <in>PriorityQueue.hpp</in>
+          <in>RandomOrderingAlgorithm.hpp</in>
+          <in>RandomVertexSelectionStrategy.hpp</in>
+          <in>SemiNormalizationOperation.hpp</in>
+          <in>SeparatorBasedTreeDecompositionAlgorithm.hpp</in>
+          <in>SetCoverAlgorithm.hpp</in>
+          <in>SetCoverAlgorithmFactory.hpp</in>
+          <in>SingleNeighborVertexSelectionStrategy.hpp</in>
+          <in>State.hpp</in>
+          <in>StronglyConnectedComponentAlgorithmFactory.hpp</in>
+          <in>TarjanStronglyConnectedComponentAlgorithm.hpp</in>
+          <in>TemplateInstantiations.hpp</in>
+          <in>Tree.hpp</in>
+          <in>TreeDecomposition.hpp</in>
+          <in>TreeDecompositionAlgorithmFactory.hpp</in>
+          <in>TreeDecompositionFactory.hpp</in>
+          <in>TreeDecompositionOptimizationOperation.hpp</in>
+          <in>TreeDecompositionVerifier.hpp</in>
+          <in>TriangulationMinimizationOrderingAlgorithm.hpp</in>
+          <in>TrivialTreeDecompositionAlgorithm.hpp</in>
+          <in>VectorAdapter.hpp</in>
+          <in>VectorAdapterConstIteratorWrapper.hpp</in>
+          <in>VectorAdapterIteratorWrapper.hpp</in>
+          <in>Vertex.hpp</in>
+          <in>VertexOrdering.hpp</in>
+          <in>WeakNormalizationOperation.hpp</in>
+          <in>WidthMinimizingTreeDecompositionAlgorithm.hpp</in>
+          <in>WidthReductionOperation.hpp</in>
+          <in>main.hpp</in>
+        </df>
+        <df name="htd_cli">
+          <in>Choice.hpp</in>
+          <in>IObserver.hpp</in>
+          <in>MultiValueOption.hpp</in>
+          <in>Option.hpp</in>
+          <in>OptionManager.hpp</in>
+          <in>PreprocessorDefinitions.hpp</in>
+          <in>SingleValueOption.hpp</in>
+          <in>ValueOption.hpp</in>
+          <in>main.hpp</in>
+        </df>
+        <df name="htd_io">
+          <in>GrFormatGraphProcessor.hpp</in>
+          <in>GrFormatGraphToTreeDecompositionProcessor.hpp</in>
+          <in>GrFormatImporter.hpp</in>
+          <in>HgrFormatGraphToTreeDecompositionProcessor.hpp</in>
+          <in>HgrFormatImporter.hpp</in>
+          <in>HumanReadableExporter.hpp</in>
+          <in>IGraphDecompositionExporter.hpp</in>
+          <in>IGraphProcessor.hpp</in>
+          <in>IGraphToTreeDecompositionProcessor.hpp</in>
+          <in>IHypertreeDecompositionExporter.hpp</in>
+          <in>ITreeDecompositionExporter.hpp</in>
+          <in>LpFormatGraphToTreeDecompositionProcessor.hpp</in>
+          <in>LpFormatImporter.hpp</in>
+          <in>ParsingResult.hpp</in>
+          <in>PreprocessorDefinitions.hpp</in>
+          <in>TdFormatExporter.hpp</in>
+          <in>WidthExporter.hpp</in>
+          <in>main.hpp</in>
+        </df>
+      </df>
+      <df name="lib">
+      </df>
+      <df name="scripts">
+      </df>
+      <df name="src">
+        <df name="htd">
+          <df name="CMakeFiles">
+            <df name="htd.dir">
+            </df>
+          </df>
+          <in>AdaptiveWidthMinimizingTreeDecompositionAlgorithm.cpp</in>
+          <in>AddEmptyLeavesOperation.cpp</in>
+          <in>AddEmptyRootOperation.cpp</in>
+          <in>AddIdenticalJoinNodeParentOperation.cpp</in>
+          <in>AssemblyInfo.cpp</in>
+          <in>BiconnectedComponentAlgorithm.cpp</in>
+          <in>BreadthFirstGraphTraversal.cpp</in>
+          <in>BucketEliminationGraphDecompositionAlgorithm.cpp</in>
+          <in>BucketEliminationTreeDecompositionAlgorithm.cpp</in>
+          <in>CliqueMinimalSeparatorAlgorithm.cpp</in>
+          <in>CombinedWidthMinimizingTreeDecompositionAlgorithm.cpp</in>
+          <in>CompressionOperation.cpp</in>
+          <in>ConnectedComponentAlgorithmFactory.cpp</in>
+          <in>DepthFirstConnectedComponentAlgorithm.cpp</in>
+          <in>DepthFirstGraphTraversal.cpp</in>
+          <in>DinitzMaxFlowAlgorithm.cpp</in>
+          <in>DirectedGraph.cpp</in>
+          <in>DirectedGraphFactory.cpp</in>
+          <in>DirectedMultiGraph.cpp</in>
+          <in>DirectedMultiGraphFactory.cpp</in>
+          <in>EnhancedMaximumCardinalitySearchOrderingAlgorithm.cpp</in>
+          <in>ExchangeNodeReplacementOperation.cpp</in>
+          <in>ExhaustiveVertexSelectionStrategy.cpp</in>
+          <in>FilteredHyperedgeCollection.cpp</in>
+          <in>FitnessEvaluation.cpp</in>
+          <in>FlowNetworkStructure.cpp</in>
+          <in>Graph.cpp</in>
+          <in>GraphDecomposition.cpp</in>
+          <in>GraphDecompositionAlgorithmFactory.cpp</in>
+          <in>GraphDecompositionFactory.cpp</in>
+          <in>GraphFactory.cpp</in>
+          <in>GraphLabeling.cpp</in>
+          <in>GraphPreprocessor.cpp</in>
+          <in>GraphPreprocessorFactory.cpp</in>
+          <in>GraphSeparatorAlgorithmFactory.cpp</in>
+          <in>GreedySetCoverAlgorithm.cpp</in>
+          <in>Helpers.cpp</in>
+          <in>Hyperedge.cpp</in>
+          <in>HyperedgeDeque.cpp</in>
+          <in>HyperedgePointerDeque.cpp</in>
+          <in>HyperedgePointerVector.cpp</in>
+          <in>HyperedgeVector.cpp</in>
+          <in>Hypergraph.cpp</in>
+          <in>HypergraphFactory.cpp</in>
+          <in>HypertreeDecomposition.cpp</in>
+          <in>HypertreeDecompositionAlgorithm.cpp</in>
+          <in>HypertreeDecompositionAlgorithmFactory.cpp</in>
+          <in>HypertreeDecompositionFactory.cpp</in>
+          <in>Id.cpp</in>
+          <in>InducedSubgraphLabelingOperation.cpp</in>
+          <in>IterativeImprovementTreeDecompositionAlgorithm.cpp</in>
+          <in>JoinNodeComplexityReductionOperation.cpp</in>
+          <in>JoinNodeNormalizationOperation.cpp</in>
+          <in>JoinNodeReplacementOperation.cpp</in>
+          <in>LabelCollection.cpp</in>
+          <in>LabeledDirectedGraph.cpp</in>
+          <in>LabeledDirectedGraphFactory.cpp</in>
+          <in>LabeledDirectedMultiGraph.cpp</in>
+          <in>LabeledDirectedMultiGraphFactory.cpp</in>
+          <in>LabeledGraph.cpp</in>
+          <in>LabeledGraphFactory.cpp</in>
+          <in>LabeledHypergraph.cpp</in>
+          <in>LabeledHypergraphFactory.cpp</in>
+          <in>LabeledMultiGraph.cpp</in>
+          <in>LabeledMultiGraphFactory.cpp</in>
+          <in>LabeledMultiHypergraph.cpp</in>
+          <in>LabeledMultiHypergraphFactory.cpp</in>
+          <in>LabeledPath.cpp</in>
+          <in>LabeledPathFactory.cpp</in>
+          <in>LabeledTree.cpp</in>
+          <in>LabeledTreeFactory.cpp</in>
+          <in>LabelingCollection.cpp</in>
+          <in>LibraryInstance.cpp</in>
+          <in>LimitChildCountOperation.cpp</in>
+          <in>LimitMaximumForgottenVertexCountOperation.cpp</in>
+          <in>LimitMaximumIntroducedVertexCountOperation.cpp</in>
+          <in>MaximumCardinalitySearchOrderingAlgorithm.cpp</in>
+          <in>MinDegreeOrderingAlgorithm.cpp</in>
+          <in>MinFillOrderingAlgorithm.cpp</in>
+          <in>MinimumSeparatorAlgorithm.cpp</in>
+          <in>MultiGraph.cpp</in>
+          <in>MultiGraphFactory.cpp</in>
+          <in>MultiHypergraph.cpp</in>
+          <in>MultiHypergraphFactory.cpp</in>
+          <in>NaturalOrderingAlgorithm.cpp</in>
+          <in>NormalizationOperation.cpp</in>
+          <in>OrderingAlgorithmFactory.cpp</in>
+          <in>Path.cpp</in>
+          <in>PathDecomposition.cpp</in>
+          <in>PathDecompositionAlgorithmFactory.cpp</in>
+          <in>PathDecompositionFactory.cpp</in>
+          <in>PostOrderTreeTraversal.cpp</in>
+          <in>PostProcessingPathDecompositionAlgorithm.cpp</in>
+          <in>PreOrderTreeTraversal.cpp</in>
+          <in>PreprocessedGraph.cpp</in>
+          <in>RandomOrderingAlgorithm.cpp</in>
+          <in>RandomVertexSelectionStrategy.cpp</in>
+          <in>SemiNormalizationOperation.cpp</in>
+          <in>SeparatorBasedTreeDecompositionAlgorithm.cpp</in>
+          <in>SetCoverAlgorithm.cpp</in>
+          <in>SetCoverAlgorithmFactory.cpp</in>
+          <in>SingleNeighborVertexSelectionStrategy.cpp</in>
+          <in>State.cpp</in>
+          <in>StronglyConnectedComponentAlgorithmFactory.cpp</in>
+          <in>TarjanStronglyConnectedComponentAlgorithm.cpp</in>
+          <in>TemplateInstantiations.cpp</in>
+          <in>Tree.cpp</in>
+          <in>TreeDecomposition.cpp</in>
+          <in>TreeDecompositionAlgorithmFactory.cpp</in>
+          <in>TreeDecompositionFactory.cpp</in>
+          <in>TreeDecompositionOptimizationOperation.cpp</in>
+          <in>TreeDecompositionVerifier.cpp</in>
+          <in>TriangulationMinimizationOrderingAlgorithm.cpp</in>
+          <in>TrivialTreeDecompositionAlgorithm.cpp</in>
+          <in>Vertex.cpp</in>
+          <in>VertexOrdering.cpp</in>
+          <in>WeakNormalizationOperation.cpp</in>
+          <in>WidthMinimizingTreeDecompositionAlgorithm.cpp</in>
+          <in>WidthReductionOperation.cpp</in>
+        </df>
+        <df name="htd_cli">
+          <df name="CMakeFiles">
+            <df name="htd_cli.dir">
+            </df>
+          </df>
+          <in>Choice.cpp</in>
+          <in>MultiValueOption.cpp</in>
+          <in>Option.cpp</in>
+          <in>OptionManager.cpp</in>
+          <in>SingleValueOption.cpp</in>
+          <in>ValueOption.cpp</in>
+        </df>
+        <df name="htd_io">
+          <df name="CMakeFiles">
+            <df name="htd_io.dir">
+            </df>
+          </df>
+          <in>GrFormatGraphToTreeDecompositionProcessor.cpp</in>
+          <in>GrFormatImporter.cpp</in>
+          <in>HgrFormatGraphToTreeDecompositionProcessor.cpp</in>
+          <in>HgrFormatImporter.cpp</in>
+          <in>HumanReadableExporter.cpp</in>
+          <in>LpFormatGraphToTreeDecompositionProcessor.cpp</in>
+          <in>LpFormatImporter.cpp</in>
+          <in>TdFormatExporter.cpp</in>
+          <in>WidthExporter.cpp</in>
+        </df>
+        <df name="htd_main">
+          <df name="CMakeFiles">
+            <df name="htd_main.dir">
+            </df>
+          </df>
+          <in>main.cpp</in>
+        </df>
+      </df>
+      <df name="test">
+        <df name="CMakeFiles">
+        </df>
+        <df name="googletest">
+          <df name="googletest-release-1.8.0">
+            <df name="CMakeFiles">
+            </df>
+            <df name="googlemock">
+              <df name="build-aux">
+              </df>
+              <df name="CMakeFiles">
+                <df name="gmock.dir">
+                  <df name="__">
+                    <df name="googletest">
+                      <df name="src">
+                      </df>
+                    </df>
+                  </df>
+                  <df name="src">
+                  </df>
+                </df>
+                <df name="gmock_main.dir">
+                  <df name="__">
+                    <df name="googletest">
+                      <df name="src">
+                      </df>
+                    </df>
+                  </df>
+                  <df name="src">
+                  </df>
+                </df>
+              </df>
+              <df name="docs">
+                <df name="v1_5">
+                </df>
+                <df name="v1_6">
+                </df>
+                <df name="v1_7">
+                </df>
+              </df>
+              <df name="gtest">
+                <df name="CMakeFiles">
+                  <df name="gtest.dir">
+                    <df name="src">
+                    </df>
+                  </df>
+                  <df name="gtest_main.dir">
+                    <df name="src">
+                    </df>
+                  </df>
+                </df>
+              </df>
+              <df name="include">
+                <df name="gmock">
+                  <df name="internal">
+                    <df name="custom">
+                      <in>gmock-generated-actions.h</in>
+                      <in>gmock-matchers.h</in>
+                      <in>gmock-port.h</in>
+                    </df>
+                    <in>gmock-generated-internal-utils.h</in>
+                    <in>gmock-internal-utils.h</in>
+                    <in>gmock-port.h</in>
+                  </df>
+                  <in>gmock-actions.h</in>
+                  <in>gmock-cardinalities.h</in>
+                  <in>gmock-generated-actions.h</in>
+                  <in>gmock-generated-function-mockers.h</in>
+                  <in>gmock-generated-matchers.h</in>
+                  <in>gmock-generated-nice-strict.h</in>
+                  <in>gmock-matchers.h</in>
+                  <in>gmock-more-actions.h</in>
+                  <in>gmock-more-matchers.h</in>
+                  <in>gmock-spec-builders.h</in>
+                  <in>gmock.h</in>
+                </df>
+              </df>
+              <df name="make">
+              </df>
+              <df name="msvc">
+                <df name="2005">
+                </df>
+                <df name="2010">
+                </df>
+                <df name="2015">
+                </df>
+              </df>
+              <df name="scripts">
+                <df name="generator">
+                  <df name="cpp">
+                  </df>
+                </df>
+              </df>
+              <df name="src">
+                <in>gmock-all.cc</in>
+                <in>gmock-cardinalities.cc</in>
+                <in>gmock-internal-utils.cc</in>
+                <in>gmock-matchers.cc</in>
+                <in>gmock-spec-builders.cc</in>
+                <in>gmock.cc</in>
+                <in>gmock_main.cc</in>
+              </df>
+              <df name="test">
+                <in>gmock-actions_test.cc</in>
+                <in>gmock-cardinalities_test.cc</in>
+                <in>gmock-generated-actions_test.cc</in>
+                <in>gmock-generated-function-mockers_test.cc</in>
+                <in>gmock-generated-internal-utils_test.cc</in>
+                <in>gmock-generated-matchers_test.cc</in>
+                <in>gmock-internal-utils_test.cc</in>
+                <in>gmock-matchers_test.cc</in>
+                <in>gmock-more-actions_test.cc</in>
+                <in>gmock-nice-strict_test.cc</in>
+                <in>gmock-port_test.cc</in>
+                <in>gmock-spec-builders_test.cc</in>
+                <in>gmock_all_test.cc</in>
+                <in>gmock_ex_test.cc</in>
+                <in>gmock_leak_test_.cc</in>
+                <in>gmock_link2_test.cc</in>
+                <in>gmock_link_test.cc</in>
+                <in>gmock_link_test.h</in>
+                <in>gmock_output_test_.cc</in>
+                <in>gmock_stress_test.cc</in>
+                <in>gmock_test.cc</in>
+              </df>
+            </df>
+            <df name="googletest">
+              <df name="build-aux">
+              </df>
+              <df name="cmake">
+              </df>
+              <df name="codegear">
+                <in>gtest_all.cc</in>
+                <in>gtest_link.cc</in>
+              </df>
+              <df name="docs">
+              </df>
+              <df name="include">
+                <df name="gtest">
+                  <df name="internal">
+                    <df name="custom">
+                      <in>gtest-port.h</in>
+                      <in>gtest-printers.h</in>
+                      <in>gtest.h</in>
+                    </df>
+                    <in>gtest-death-test-internal.h</in>
+                    <in>gtest-filepath.h</in>
+                    <in>gtest-internal.h</in>
+                    <in>gtest-linked_ptr.h</in>
+                    <in>gtest-param-util-generated.h</in>
+                    <in>gtest-param-util.h</in>
+                    <in>gtest-port-arch.h</in>
+                    <in>gtest-port.h</in>
+                    <in>gtest-string.h</in>
+                    <in>gtest-tuple.h</in>
+                    <in>gtest-type-util.h</in>
+                  </df>
+                  <in>gtest-death-test.h</in>
+                  <in>gtest-message.h</in>
+                  <in>gtest-param-test.h</in>
+                  <in>gtest-printers.h</in>
+                  <in>gtest-spi.h</in>
+                  <in>gtest-test-part.h</in>
+                  <in>gtest-typed-test.h</in>
+                  <in>gtest.h</in>
+                  <in>gtest_pred_impl.h</in>
+                  <in>gtest_prod.h</in>
+                </df>
+              </df>
+              <df name="m4">
+              </df>
+              <df name="make">
+              </df>
+              <df name="msvc">
+              </df>
+              <df name="samples">
+                <in>prime_tables.h</in>
+                <in>sample1.cc</in>
+                <in>sample1.h</in>
+                <in>sample10_unittest.cc</in>
+                <in>sample1_unittest.cc</in>
+                <in>sample2.cc</in>
+                <in>sample2.h</in>
+                <in>sample2_unittest.cc</in>
+                <in>sample3-inl.h</in>
+                <in>sample3_unittest.cc</in>
+                <in>sample4.cc</in>
+                <in>sample4.h</in>
+                <in>sample4_unittest.cc</in>
+                <in>sample5_unittest.cc</in>
+                <in>sample6_unittest.cc</in>
+                <in>sample7_unittest.cc</in>
+                <in>sample8_unittest.cc</in>
+                <in>sample9_unittest.cc</in>
+              </df>
+              <df name="scripts">
+                <df name="test">
+                </df>
+              </df>
+              <df name="src">
+                <in>gtest-all.cc</in>
+                <in>gtest-death-test.cc</in>
+                <in>gtest-filepath.cc</in>
+                <in>gtest-internal-inl.h</in>
+                <in>gtest-port.cc</in>
+                <in>gtest-printers.cc</in>
+                <in>gtest-test-part.cc</in>
+                <in>gtest-typed-test.cc</in>
+                <in>gtest.cc</in>
+                <in>gtest_main.cc</in>
+              </df>
+              <df name="test">
+                <in>gtest-death-test_ex_test.cc</in>
+                <in>gtest-death-test_test.cc</in>
+                <in>gtest-filepath_test.cc</in>
+                <in>gtest-linked_ptr_test.cc</in>
+                <in>gtest-listener_test.cc</in>
+                <in>gtest-message_test.cc</in>
+                <in>gtest-options_test.cc</in>
+                <in>gtest-param-test2_test.cc</in>
+                <in>gtest-param-test_test.cc</in>
+                <in>gtest-param-test_test.h</in>
+                <in>gtest-port_test.cc</in>
+                <in>gtest-printers_test.cc</in>
+                <in>gtest-test-part_test.cc</in>
+                <in>gtest-tuple_test.cc</in>
+                <in>gtest-typed-test2_test.cc</in>
+                <in>gtest-typed-test_test.cc</in>
+                <in>gtest-typed-test_test.h</in>
+                <in>gtest-unittest-api_test.cc</in>
+                <in>gtest_all_test.cc</in>
+                <in>gtest_break_on_failure_unittest_.cc</in>
+                <in>gtest_catch_exceptions_test_.cc</in>
+                <in>gtest_color_test_.cc</in>
+                <in>gtest_env_var_test_.cc</in>
+                <in>gtest_environment_test.cc</in>
+                <in>gtest_filter_unittest_.cc</in>
+                <in>gtest_help_test_.cc</in>
+                <in>gtest_list_tests_unittest_.cc</in>
+                <in>gtest_main_unittest.cc</in>
+                <in>gtest_no_test_unittest.cc</in>
+                <in>gtest_output_test_.cc</in>
+                <in>gtest_pred_impl_unittest.cc</in>
+                <in>gtest_premature_exit_test.cc</in>
+                <in>gtest_prod_test.cc</in>
+                <in>gtest_repeat_test.cc</in>
+                <in>gtest_shuffle_test_.cc</in>
+                <in>gtest_sole_header_test.cc</in>
+                <in>gtest_stress_test.cc</in>
+                <in>gtest_throw_on_failure_ex_test.cc</in>
+                <in>gtest_throw_on_failure_test_.cc</in>
+                <in>gtest_uninitialized_test_.cc</in>
+                <in>gtest_unittest.cc</in>
+                <in>gtest_xml_outfile1_test_.cc</in>
+                <in>gtest_xml_outfile2_test_.cc</in>
+                <in>gtest_xml_output_unittest_.cc</in>
+                <in>production.cc</in>
+                <in>production.h</in>
+              </df>
+              <df name="xcode">
+                <df name="Config">
+                </df>
+                <df name="gtest.xcodeproj">
+                </df>
+                <df name="Resources">
+                </df>
+                <df name="Samples">
+                  <df name="FrameworkSample">
+                    <df name="WidgetFramework.xcodeproj">
+                    </df>
+                    <in>widget.cc</in>
+                    <in>widget.h</in>
+                    <in>widget_test.cc</in>
+                  </df>
+                </df>
+                <df name="Scripts">
+                </df>
+              </df>
+            </df>
+          </df>
+        </df>
+        <df name="htd">
+          <df name="CMakeFiles">
+            <df name="BucketEliminationGraphDecompositionAlgorithmTest.dir">
+            </df>
+            <df name="BucketEliminationTreeDecompositionAlgorithmTest.dir">
+            </df>
+            <df name="ConnectedComponentAlgorithmTest.dir">
+            </df>
+            <df name="FactoryTest.dir">
+            </df>
+            <df name="FilteredHyperedgeCollectionTest.dir">
+            </df>
+            <df name="GraphDecompositionTest.dir">
+            </df>
+            <df name="GraphLabelingTest.dir">
+            </df>
+            <df name="GraphPreprocessorTest.dir">
+            </df>
+            <df name="GraphTest.dir">
+            </df>
+            <df name="HelperTest.dir">
+            </df>
+            <df name="HyperedgeTest.dir">
+            </df>
+            <df name="HypergraphTest.dir">
+            </df>
+            <df name="HypertreeDecompositionAlgorithmTest.dir">
+            </df>
+            <df name="HypertreeDecompositionTest.dir">
+            </df>
+            <df name="IteratorTest.dir">
+            </df>
+            <df name="LabelCollectionTest.dir">
+            </df>
+            <df name="LabeledDirectedGraphTest.dir">
+            </df>
+            <df name="LabeledDirectedMultiGraphTest.dir">
+            </df>
+            <df name="LabeledGraphTest.dir">
+            </df>
+            <df name="LabeledHypergraphTest.dir">
+            </df>
+            <df name="LabeledMultiGraphTest.dir">
+            </df>
+            <df name="LabelingCollectionTest.dir">
+            </df>
+            <df name="LibraryInstanceTest.dir">
+            </df>
+            <df name="ManipulationOperationTest.dir">
+            </df>
+            <df name="MaximumCardinalitySearchOrderingAlgorithmTest.dir">
+            </df>
+            <df name="MinDegreeOrderingAlgorithmTest.dir">
+            </df>
+            <df name="MinFillOrderingAlgorithmTest.dir">
+            </df>
+            <df name="MultiGraphTest.dir">
+            </df>
+            <df name="MultiHypergraphTest.dir">
+            </df>
+            <df name="PathDecompositionTest.dir">
+            </df>
+            <df name="PathTest.dir">
+            </df>
+            <df name="PostProcessingPathDecompositionAlgorithmTest.dir">
+            </df>
+            <df name="RandomOrderingAlgorithmTest.dir">
+            </df>
+            <df name="SetCoverAlgorithmTest.dir">
+            </df>
+            <df name="TreeDecompositionOptimizationTest.dir">
+            </df>
+            <df name="TreeDecompositionTest.dir">
+            </df>
+            <df name="TreeTest.dir">
+            </df>
+            <df name="VertexSelectionStrategyTest.dir">
+            </df>
+          </df>
+          <in>BucketEliminationGraphDecompositionAlgorithmTest.cpp</in>
+          <in>BucketEliminationTreeDecompositionAlgorithmTest.cpp</in>
+          <in>ConnectedComponentAlgorithmTest.cpp</in>
+          <in>FactoryTest.cpp</in>
+          <in>FilteredHyperedgeCollectionTest.cpp</in>
+          <in>GraphDecompositionTest.cpp</in>
+          <in>GraphLabelingTest.cpp</in>
+          <in>GraphPreprocessorTest.cpp</in>
+          <in>GraphTest.cpp</in>
+          <in>HelperTest.cpp</in>
+          <in>HyperedgeTest.cpp</in>
+          <in>HypergraphTest.cpp</in>
+          <in>HypertreeDecompositionAlgorithmTest.cpp</in>
+          <in>HypertreeDecompositionTest.cpp</in>
+          <in>IteratorTest.cpp</in>
+          <in>LabelCollectionTest.cpp</in>
+          <in>LabeledDirectedGraphTest.cpp</in>
+          <in>LabeledDirectedMultiGraphTest.cpp</in>
+          <in>LabeledGraphTest.cpp</in>
+          <in>LabeledHypergraphTest.cpp</in>
+          <in>LabeledMultiGraphTest.cpp</in>
+          <in>LabelingCollectionTest.cpp</in>
+          <in>LibraryInstanceTest.cpp</in>
+          <in>ManipulationOperationTest.cpp</in>
+          <in>MaximumCardinalitySearchOrderingAlgorithmTest.cpp</in>
+          <in>MinDegreeOrderingAlgorithmTest.cpp</in>
+          <in>MinFillOrderingAlgorithmTest.cpp</in>
+          <in>MultiGraphTest.cpp</in>
+          <in>MultiHypergraphTest.cpp</in>
+          <in>PathDecompositionTest.cpp</in>
+          <in>PathTest.cpp</in>
+          <in>PostProcessingPathDecompositionAlgorithmTest.cpp</in>
+          <in>RandomOrderingAlgorithmTest.cpp</in>
+          <in>SetCoverAlgorithmTest.cpp</in>
+          <in>TreeDecompositionOptimizationTest.cpp</in>
+          <in>TreeDecompositionTest.cpp</in>
+          <in>TreeTest.cpp</in>
+          <in>VertexSelectionStrategyTest.cpp</in>
+        </df>
+      </df>
+      <df name="Testing">
+        <df name="Temporary">
+        </df>
+      </df>
+    </df>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir>.</rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+  </confs>
+</configurationDescriptor>
